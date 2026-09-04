@@ -1,0 +1,2002 @@
+[
+  {
+    "User_ID": "0341e108b8b04af791634b74fa535e00",
+    "Name": "Olivia Alves",
+    "Email": "olivia.alves0@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-09-28"
+  },
+  {
+    "User_ID": "05e6951a62404725973286140dd1012d",
+    "Name": "Zeca Ribeiro",
+    "Email": "zeca.ribeiro1@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-03-04"
+  },
+  {
+    "User_ID": "067255958a594a0b8823752da68a7169",
+    "Name": "Elisa Oliveira",
+    "Email": "elisa.oliveira2@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2026-01-20"
+  },
+  {
+    "User_ID": "075b830deed7490daac9312df46e40be",
+    "Name": "Ursula Cardoso",
+    "Email": "ursula.cardoso3@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2025-01-27"
+  },
+  {
+    "User_ID": "083dbbb0882942c0bdba5bd873c60c22",
+    "Name": "Bruno Rodrigues",
+    "Email": "bruno.rodrigues4@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-01-25"
+  },
+  {
+    "User_ID": "08614f914f0d4bf991fa210973bc8c1c",
+    "Name": "Olivia Monteiro",
+    "Email": "olivia.monteiro5@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2025-04-21"
+  },
+  {
+    "User_ID": "09232cba259443b4866727da807ee2af",
+    "Name": "Ana Oliveira",
+    "Email": "ana.oliveira6@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2026-05-14"
+  },
+  {
+    "User_ID": "0a4c6bf12f5a473c8bb5e9d4fc51f3c7",
+    "Name": "Karina Almeida",
+    "Email": "karina.almeida7@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2023-01-03"
+  },
+  {
+    "User_ID": "0ad78d390a5148d88c12cc17c4bc124a",
+    "Name": "Diego Lima",
+    "Email": "diego.lima8@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-01-28"
+  },
+  {
+    "User_ID": "0b93fce1048d437c8832f8bef15d5c50",
+    "Name": "Gabriela Souza",
+    "Email": "gabriela.souza9@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-12-13"
+  },
+  {
+    "User_ID": "0bcb8f4e6e434333b90db9a82c8e6b63",
+    "Name": "Sabrina Rodrigues",
+    "Email": "sabrina.rodrigues10@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2023-02-10"
+  },
+  {
+    "User_ID": "0c811611c8d14c58a7b1d0b0d7e13bbd",
+    "Name": "Nicolas Santos",
+    "Email": "nicolas.santos11@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-12-04"
+  },
+  {
+    "User_ID": "0fab546f94db4339923baef096dfb82b",
+    "Name": "Olivia Rocha",
+    "Email": "olivia.rocha12@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2026-04-15"
+  },
+  {
+    "User_ID": "1023e26aa5804967b97ecb47c246fc4b",
+    "Name": "Nicolas Carvalho",
+    "Email": "nicolas.carvalho13@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-07-07"
+  },
+  {
+    "User_ID": "1199c2c4ffd94da1b7298831d1af5850",
+    "Name": "Rodrigo Monteiro",
+    "Email": "rodrigo.monteiro14@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-04-06"
+  },
+  {
+    "User_ID": "11cd34b7825742b094ffd66b332da78c",
+    "Name": "Bruno Pereira",
+    "Email": "bruno.pereira15@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-05-01"
+  },
+  {
+    "User_ID": "125671d6571e4747bec8b0b04b87163c",
+    "Name": "Mariana Oliveira",
+    "Email": "mariana.oliveira16@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-04-19"
+  },
+  {
+    "User_ID": "13934f8e4b7444568cc37a995aa20957",
+    "Name": "Thiago Fernandes",
+    "Email": "thiago.fernandes17@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-08-05"
+  },
+  {
+    "User_ID": "1b7b3638951b4dd59b6b272bb44059c1",
+    "Name": "Rodrigo Carvalho",
+    "Email": "rodrigo.carvalho18@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2026-03-10"
+  },
+  {
+    "User_ID": "1bbcc50978cc41a9a29e9c4b6d77ce86",
+    "Name": "Ximena Rodrigues",
+    "Email": "ximena.rodrigues19@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2026-04-22"
+  },
+  {
+    "User_ID": "1e47b13ffacb43988eaa516bd30efca4",
+    "Name": "Thiago Oliveira",
+    "Email": "thiago.oliveira20@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-02-04"
+  },
+  {
+    "User_ID": "243768b617804f658e9481e858aa1a1f",
+    "Name": "Hugo Carvalho",
+    "Email": "hugo.carvalho21@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-10-16"
+  },
+  {
+    "User_ID": "265b293381ba455b851edba1b51f175f",
+    "Name": "Eduardo Oliveira",
+    "Email": "eduardo.oliveira22@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-08-18"
+  },
+  {
+    "User_ID": "2af303b351584a218fc1d9ca0f035749",
+    "Name": "Gabriela Rodrigues",
+    "Email": "gabriela.rodrigues23@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-05-14"
+  },
+  {
+    "User_ID": "2c5e0c0156dc4c8497c8956329c025b2",
+    "Name": "Bruno Souza",
+    "Email": "bruno.souza24@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-06-17"
+  },
+  {
+    "User_ID": "2ee496e29cf64292a343e83445c77b57",
+    "Name": "Lucas Pereira",
+    "Email": "lucas.pereira25@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-11-24"
+  },
+  {
+    "User_ID": "30335a9dde9543238e7cff8c5d7cf2a5",
+    "Name": "Eduardo Silva",
+    "Email": "eduardo.silva26@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-12-10"
+  },
+  {
+    "User_ID": "321d61024a604e65b5c6673a77c6bb7a",
+    "Name": "Thiago Oliveira",
+    "Email": "thiago.oliveira27@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2021-12-10"
+  },
+  {
+    "User_ID": "347e6fae14ac439581770ddafc09f24c",
+    "Name": "Carla Oliveira",
+    "Email": "carla.oliveira28@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2025-06-24"
+  },
+  {
+    "User_ID": "34cecede8d7e477a94dacb4cd4d6b5ed",
+    "Name": "Zeca Araujo",
+    "Email": "zeca.araujo29@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2021-11-16"
+  },
+  {
+    "User_ID": "35334c04bf65487f9b2359d29945cff2",
+    "Name": "Zeca Silva",
+    "Email": "zeca.silva30@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2025-01-20"
+  },
+  {
+    "User_ID": "36977f0e87a946aeb62639cc24f24b5c",
+    "Name": "Sabrina Silva",
+    "Email": "sabrina.silva31@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-02-03"
+  },
+  {
+    "User_ID": "36baebc201eb4f87bf6e939f7003a44d",
+    "Name": "Patricia Gomes",
+    "Email": "patricia.gomes32@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2024-12-23"
+  },
+  {
+    "User_ID": "37269868c7c64e30a746214de4bd2925",
+    "Name": "Olivia Alves",
+    "Email": "olivia.alves33@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-09-01"
+  },
+  {
+    "User_ID": "374b8ba5d02c42bfb2ca8ed097ac0d26",
+    "Name": "Pedro Silva",
+    "Email": "pedro.silva34@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-02-16"
+  },
+  {
+    "User_ID": "379ff825500c4bacb5f705dc8fbac4a8",
+    "Name": "Patricia Silva",
+    "Email": "patricia.silva35@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-03-22"
+  },
+  {
+    "User_ID": "37a25253bde44b109b824b9f8828d55c",
+    "Name": "Yasmin Araujo",
+    "Email": "yasmin.araujo36@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-04-11"
+  },
+  {
+    "User_ID": "3901a64b50ab43dcbdd70f8da9a22c0e",
+    "Name": "Gabriela Gomes",
+    "Email": "gabriela.gomes37@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-07-08"
+  },
+  {
+    "User_ID": "3d0b7edcf32c45f794d6fcd4c7bbeb26",
+    "Name": "Elisa Pereira",
+    "Email": "elisa.pereira38@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-01-23"
+  },
+  {
+    "User_ID": "3db4b316c0e44c4ebc16d2cff9dc9c0d",
+    "Name": "Camila Costa",
+    "Email": "camila.costa39@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2024-08-09"
+  },
+  {
+    "User_ID": "4015cfb70e6a479dac0111f80b588209",
+    "Name": "Mariana Ribeiro",
+    "Email": "mariana.ribeiro40@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-06-23"
+  },
+  {
+    "User_ID": "407a6b33758f4193aa96f42842002b3e",
+    "Name": "Carla Souza",
+    "Email": "carla.souza41@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-01-22"
+  },
+  {
+    "User_ID": "40f9e528e7dc4463ba63ab6512369f98",
+    "Name": "Joao Monteiro",
+    "Email": "joao.monteiro42@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-03-13"
+  },
+  {
+    "User_ID": "420cf35e31524efb8581794d2c26acb1",
+    "Name": "Ana Nascimento",
+    "Email": "ana.nascimento43@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2022-01-21"
+  },
+  {
+    "User_ID": "43332db246b94a5f8cd4f9e55500ff9f",
+    "Name": "Diego Alves",
+    "Email": "diego.alves44@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2021-11-07"
+  },
+  {
+    "User_ID": "43397d33af48493d9db8a9458bd1d738",
+    "Name": "Isabela Costa",
+    "Email": "isabela.costa45@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-09-23"
+  },
+  {
+    "User_ID": "4409aa10dc6049bd9d23b39107f3c283",
+    "Name": "Hugo Nascimento",
+    "Email": "hugo.nascimento46@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2025-12-17"
+  },
+  {
+    "User_ID": "45a210d681404d53b8ac6e47cce7c344",
+    "Name": "Rodrigo Almeida",
+    "Email": "rodrigo.almeida47@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2024-12-13"
+  },
+  {
+    "User_ID": "4677e8de01094ceea6556152b878b4e4",
+    "Name": "Olivia Rodrigues",
+    "Email": "olivia.rodrigues48@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2024-09-19"
+  },
+  {
+    "User_ID": "48efabc373fb4564a5f7199abf2e4f9a",
+    "Name": "Karina Rodrigues",
+    "Email": "karina.rodrigues49@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2026-02-07"
+  },
+  {
+    "User_ID": "4958fec572fe403db1fd4825d81a66cd",
+    "Name": "Carla Lima",
+    "Email": "carla.lima50@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-05-23"
+  },
+  {
+    "User_ID": "4aaa1ceb245246e893d6fbef59615978",
+    "Name": "Queila Oliveira",
+    "Email": "queila.oliveira51@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-06-18"
+  },
+  {
+    "User_ID": "4bbc22c9923846708885fae204a54602",
+    "Name": "Pedro Silva",
+    "Email": "pedro.silva52@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-07-26"
+  },
+  {
+    "User_ID": "4bc14a49744547c3b8b590704d802f78",
+    "Name": "Rafael Araujo",
+    "Email": "rafael.araujo53@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2024-03-17"
+  },
+  {
+    "User_ID": "4fafa547438147428af3e6367a47017c",
+    "Name": "Sabrina Oliveira",
+    "Email": "sabrina.oliveira54@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-09-18"
+  },
+  {
+    "User_ID": "5944ab4badf1414393037fbae875d9f3",
+    "Name": "Queila Ribeiro",
+    "Email": "queila.ribeiro55@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-05-22"
+  },
+  {
+    "User_ID": "599666380164472c820fa5921b587f8b",
+    "Name": "Joao Pereira",
+    "Email": "joao.pereira56@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-05-19"
+  },
+  {
+    "User_ID": "5b83b2d1f53743728ffb1a03dbaed89d",
+    "Name": "Nicolas Alves",
+    "Email": "nicolas.alves57@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-01-20"
+  },
+  {
+    "User_ID": "5ba869b84e9b4ea3a37f720fc2ed44d3",
+    "Name": "Rafael Souza",
+    "Email": "rafael.souza58@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2024-09-26"
+  },
+  {
+    "User_ID": "5c56ed718cec4ed0b5cfe4ea98f1787c",
+    "Name": "Carla Costa",
+    "Email": "carla.costa59@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-08-14"
+  },
+  {
+    "User_ID": "5d9a84e3a7b1425ea5b28043341d41e3",
+    "Name": "Hugo Rocha",
+    "Email": "hugo.rocha60@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2022-06-14"
+  },
+  {
+    "User_ID": "6004344613f04da389c9fa33cfc46355",
+    "Name": "Diego Rodrigues",
+    "Email": "diego.rodrigues61@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-01-09"
+  },
+  {
+    "User_ID": "60846784113f4299a7e924c25bc5b505",
+    "Name": "Bruno Rodrigues",
+    "Email": "bruno.rodrigues62@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-01-22"
+  },
+  {
+    "User_ID": "61207acee7d040f98e3f277c8d14ba59",
+    "Name": "Ximena Fernandes",
+    "Email": "ximena.fernandes63@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-08-04"
+  },
+  {
+    "User_ID": "62aca2b58b0947ffa20598f49f11c159",
+    "Name": "Rodrigo Ribeiro",
+    "Email": "rodrigo.ribeiro64@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-12-07"
+  },
+  {
+    "User_ID": "636c67cfb30e43cab732b9484510f17f",
+    "Name": "Mariana Gomes",
+    "Email": "mariana.gomes65@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-03-18"
+  },
+  {
+    "User_ID": "64d5a44d831144d6af986f7b6f7ebe56",
+    "Name": "Queila Rodrigues",
+    "Email": "queila.rodrigues66@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-10-28"
+  },
+  {
+    "User_ID": "659cd37d9617461c981ec6749781fbc0",
+    "Name": "Eduardo Fernandes",
+    "Email": "eduardo.fernandes67@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-10-11"
+  },
+  {
+    "User_ID": "67467c114b71481a82eae3ea8778cedd",
+    "Name": "Yasmin Rodrigues",
+    "Email": "yasmin.rodrigues68@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-04-05"
+  },
+  {
+    "User_ID": "67e7b69a48a64ec3ac148da3d9fc9994",
+    "Name": "Mariana Santos",
+    "Email": "mariana.santos69@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-09-26"
+  },
+  {
+    "User_ID": "68d1e144cfd14b9a83340e38ec3b699d",
+    "Name": "Mariana Silva",
+    "Email": "mariana.silva70@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-10-22"
+  },
+  {
+    "User_ID": "6a2ec21c27034be0bf3143e02bc45b0f",
+    "Name": "Diego Ribeiro",
+    "Email": "diego.ribeiro71@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-11-27"
+  },
+  {
+    "User_ID": "6adfa2b03c9a43a2bfb41185b3d2df15",
+    "Name": "Pedro Santos",
+    "Email": "pedro.santos72@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-09-20"
+  },
+  {
+    "User_ID": "6b6f489faf3e48cab2d45201a2529b7b",
+    "Name": "Gabriela Costa",
+    "Email": "gabriela.costa73@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2022-03-27"
+  },
+  {
+    "User_ID": "6ff6a13aaf994355ae2b68fb29dd0b18",
+    "Name": "Eduardo Santos",
+    "Email": "eduardo.santos74@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-03-22"
+  },
+  {
+    "User_ID": "70d48434ebe04234bb26756cd568e19c",
+    "Name": "Yasmin Santos",
+    "Email": "yasmin.santos75@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2024-08-14"
+  },
+  {
+    "User_ID": "71e7373b04214a9e8d46cba2aa9f9e7e",
+    "Name": "Gabriela Cardoso",
+    "Email": "gabriela.cardoso76@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-11-23"
+  },
+  {
+    "User_ID": "73140923acb54062bf7073b4c8a91844",
+    "Name": "Fernando Gomes",
+    "Email": "fernando.gomes77@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-12-12"
+  },
+  {
+    "User_ID": "7353ff94080e4fc894b06741a2a63ac4",
+    "Name": "Thiago Costa",
+    "Email": "thiago.costa78@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2025-01-11"
+  },
+  {
+    "User_ID": "76dc8868dc7b4f5389df719b8a9911fd",
+    "Name": "Sabrina Cardoso",
+    "Email": "sabrina.cardoso79@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-10-11"
+  },
+  {
+    "User_ID": "7c4d2d9ce763443c8cb389cb3ada4342",
+    "Name": "Eduardo Santos",
+    "Email": "eduardo.santos80@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2024-03-11"
+  },
+  {
+    "User_ID": "7c8a2061153c4bf2b51afb0be38ba0fb",
+    "Name": "Yasmin Costa",
+    "Email": "yasmin.costa81@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-12-06"
+  },
+  {
+    "User_ID": "7e1fecc8d2be494482426c753d31a749",
+    "Name": "Joao Rocha",
+    "Email": "joao.rocha82@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-06-21"
+  },
+  {
+    "User_ID": "7e86da144e9a4be98f6671b483a227c0",
+    "Name": "Isabela Lima",
+    "Email": "isabela.lima83@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2022-11-13"
+  },
+  {
+    "User_ID": "800c7c8f5f3f4c32b850c42e64cc5a2a",
+    "Name": "Mariana Ribeiro",
+    "Email": "mariana.ribeiro84@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2026-04-23"
+  },
+  {
+    "User_ID": "814eda344cd14022aec174b1090cfa6d",
+    "Name": "Sabrina Silva",
+    "Email": "sabrina.silva85@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-02-24"
+  },
+  {
+    "User_ID": "816b9c0eaf094e9ea6a8b00109677182",
+    "Name": "Olivia Carvalho",
+    "Email": "olivia.carvalho86@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-04-21"
+  },
+  {
+    "User_ID": "820f8fa174aa4506829afe90fab2c34c",
+    "Name": "Diego Nascimento",
+    "Email": "diego.nascimento87@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-06-18"
+  },
+  {
+    "User_ID": "82ec02c33c6d426aa0b6605f9665341b",
+    "Name": "Ursula Martins",
+    "Email": "ursula.martins88@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2025-10-22"
+  },
+  {
+    "User_ID": "83d90481ce9f47858eb556be36d290dd",
+    "Name": "Eduardo Costa",
+    "Email": "eduardo.costa89@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-03-28"
+  },
+  {
+    "User_ID": "84dd13507ce540cca4397181a6f2a39e",
+    "Name": "Nicolas Rocha",
+    "Email": "nicolas.rocha90@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2023-09-13"
+  },
+  {
+    "User_ID": "870d96d3c411443d867915001f64efd3",
+    "Name": "Queila Lima",
+    "Email": "queila.lima91@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-05-18"
+  },
+  {
+    "User_ID": "876849607bc1439885357ebc9de10424",
+    "Name": "Ana Silva",
+    "Email": "ana.silva92@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2025-01-21"
+  },
+  {
+    "User_ID": "886a619eed5c455f8351cf8b06a6f219",
+    "Name": "Yasmin Carvalho",
+    "Email": "yasmin.carvalho93@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-12-13"
+  },
+  {
+    "User_ID": "88904cc646ad4bde81701013bda6c232",
+    "Name": "Carla Almeida",
+    "Email": "carla.almeida94@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2026-08-09"
+  },
+  {
+    "User_ID": "8a9b3915b489446e90a4885e76403617",
+    "Name": "Queila Santos",
+    "Email": "queila.santos95@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-04-20"
+  },
+  {
+    "User_ID": "8aaac01a35624a42a875f5dc9f718e77",
+    "Name": "Thiago Gomes",
+    "Email": "thiago.gomes96@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-04-28"
+  },
+  {
+    "User_ID": "8c2f701c66484ed08fdacbeb8bd19001",
+    "Name": "Queila Pereira",
+    "Email": "queila.pereira97@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2023-08-05"
+  },
+  {
+    "User_ID": "8cc3c2e72bbd43cf982d9ad9f2540a82",
+    "Name": "Thiago Nascimento",
+    "Email": "thiago.nascimento98@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2026-07-12"
+  },
+  {
+    "User_ID": "8ccef6916ef64f7d9e65650b284e143a",
+    "Name": "Ximena Pereira",
+    "Email": "ximena.pereira99@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-02-17"
+  },
+  {
+    "User_ID": "8e009995f2644d578532cc5ea7e533c2",
+    "Name": "Isabela Nascimento",
+    "Email": "isabela.nascimento100@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-04-21"
+  },
+  {
+    "User_ID": "8e94c8f6452647a0984f7717f85c4982",
+    "Name": "Gabriela Almeida",
+    "Email": "gabriela.almeida101@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2026-04-22"
+  },
+  {
+    "User_ID": "8f1424b08ca74f3bba3d05c98930a953",
+    "Name": "Ana Nascimento",
+    "Email": "ana.nascimento102@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-01-20"
+  },
+  {
+    "User_ID": "91136003be434bf286760c2d12b68b33",
+    "Name": "Hugo Alves",
+    "Email": "hugo.alves103@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-02-22"
+  },
+  {
+    "User_ID": "918bb037524f49d39ab69b68ec2739ee",
+    "Name": "Ursula Fernandes",
+    "Email": "ursula.fernandes104@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-06-07"
+  },
+  {
+    "User_ID": "958894a4de7b4fd8a4463591bd390edd",
+    "Name": "Pedro Pereira",
+    "Email": "pedro.pereira105@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2021-08-26"
+  },
+  {
+    "User_ID": "95ac297280f34469944dad359a43aab2",
+    "Name": "Nicolas Nascimento",
+    "Email": "nicolas.nascimento106@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-06-05"
+  },
+  {
+    "User_ID": "97f1402d673d474aae49aef4e5acb931",
+    "Name": "Rafael Costa",
+    "Email": "rafael.costa107@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2026-06-19"
+  },
+  {
+    "User_ID": "984e35aa002847ebacfe6565dde73b32",
+    "Name": "Patricia Araujo",
+    "Email": "patricia.araujo108@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2025-02-14"
+  },
+  {
+    "User_ID": "98ed4e55d4294bc8aeb915cb3ff1a2c3",
+    "Name": "Joao Silva",
+    "Email": "joao.silva109@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-04-22"
+  },
+  {
+    "User_ID": "9a3db07d261049a1b3d46ae0e97f78e0",
+    "Name": "Pedro Araujo",
+    "Email": "pedro.araujo110@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-04-12"
+  },
+  {
+    "User_ID": "9b119cc0efd84eacab3ff55052ad9ca7",
+    "Name": "Eduardo Santos",
+    "Email": "eduardo.santos111@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2026-08-19"
+  },
+  {
+    "User_ID": "9c74b1c8631a4068a63f22a567467951",
+    "Name": "Queila Lima",
+    "Email": "queila.lima112@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-04-13"
+  },
+  {
+    "User_ID": "9c977a846b264cd294d658117138bbc5",
+    "Name": "Lucas Fernandes",
+    "Email": "lucas.fernandes113@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-11-13"
+  },
+  {
+    "User_ID": "9e53686e27f04875b89c72da6987421a",
+    "Name": "Ximena Monteiro",
+    "Email": "ximena.monteiro114@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-09-05"
+  },
+  {
+    "User_ID": "a12c9b438338456bb3a4ab15b146be9d",
+    "Name": "Carla Martins",
+    "Email": "carla.martins115@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-04-17"
+  },
+  {
+    "User_ID": "a14cec1170874a46b337616cf1b99e66",
+    "Name": "Sabrina Lima",
+    "Email": "sabrina.lima116@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-07-03"
+  },
+  {
+    "User_ID": "a1c2160c6a7d4e9889727c673a633c74",
+    "Name": "Karina Oliveira",
+    "Email": "karina.oliveira117@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2026-02-11"
+  },
+  {
+    "User_ID": "a2640b7dd8ef4f7fb67bb63bd7327d41",
+    "Name": "Ursula Pereira",
+    "Email": "ursula.pereira118@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2026-07-08"
+  },
+  {
+    "User_ID": "a26dc393ae8a4269bd4dc757046d5da5",
+    "Name": "Yasmin Ribeiro",
+    "Email": "yasmin.ribeiro119@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-07-12"
+  },
+  {
+    "User_ID": "a2b341005f4f4a719c0b1cbf3b91cbda",
+    "Name": "Vinicius Pereira",
+    "Email": "vinicius.pereira120@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-09-26"
+  },
+  {
+    "User_ID": "a314b786c13b4d478a639beefcce717a",
+    "Name": "Nicolas Fernandes",
+    "Email": "nicolas.fernandes121@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-02-15"
+  },
+  {
+    "User_ID": "a31a31f7dd894cdf92f07782761c2e55",
+    "Name": "Wesley Silva",
+    "Email": "wesley.silva122@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-07-05"
+  },
+  {
+    "User_ID": "a478496f22b04c2080240716ed3d3956",
+    "Name": "Ursula Carvalho",
+    "Email": "ursula.carvalho123@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-04-13"
+  },
+  {
+    "User_ID": "a8b32d936091474eb2b9d9065e4d2dee",
+    "Name": "Isabela Souza",
+    "Email": "isabela.souza124@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2023-12-04"
+  },
+  {
+    "User_ID": "a8e0e0afcf7041809f3456399972a234",
+    "Name": "Yasmin Costa",
+    "Email": "yasmin.costa125@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-01-19"
+  },
+  {
+    "User_ID": "a8f4148149d5461d8be393e279627315",
+    "Name": "Karina Santos",
+    "Email": "karina.santos126@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2022-06-07"
+  },
+  {
+    "User_ID": "a93e4e6912364ab0abdfbb747a63bd62",
+    "Name": "Thiago Ribeiro",
+    "Email": "thiago.ribeiro127@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-03-09"
+  },
+  {
+    "User_ID": "ad35cd572ede4d1c9743c63494da806a",
+    "Name": "Eduardo Lima",
+    "Email": "eduardo.lima128@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2025-08-28"
+  },
+  {
+    "User_ID": "ad8f57d92e244db58509b85d1d812926",
+    "Name": "Patricia Carvalho",
+    "Email": "patricia.carvalho129@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2026-02-16"
+  },
+  {
+    "User_ID": "af72435bc4bc4e199904b42f31f09159",
+    "Name": "Bruno Rodrigues",
+    "Email": "bruno.rodrigues130@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-09-26"
+  },
+  {
+    "User_ID": "b2f2724900864dc9bde7585d4ec425e6",
+    "Name": "Vinicius Almeida",
+    "Email": "vinicius.almeida131@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2024-06-15"
+  },
+  {
+    "User_ID": "b756a69b3ae24b07846d36e57858a875",
+    "Name": "Thiago Costa",
+    "Email": "thiago.costa132@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-06-05"
+  },
+  {
+    "User_ID": "b94e557d89b14c7f96552d285b9aeeba",
+    "Name": "Ursula Cardoso",
+    "Email": "ursula.cardoso133@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-09-02"
+  },
+  {
+    "User_ID": "ba1c0da33fd94d10a676c91b62bfd4bc",
+    "Name": "Ana Rodrigues",
+    "Email": "ana.rodrigues134@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2022-02-12"
+  },
+  {
+    "User_ID": "bb82de6d39ab4e80af578d0d87dcdb70",
+    "Name": "Patricia Rocha",
+    "Email": "patricia.rocha135@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2021-12-19"
+  },
+  {
+    "User_ID": "bb84211b8305462aa8e254c5804650b4",
+    "Name": "Zeca Rodrigues",
+    "Email": "zeca.rodrigues136@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2022-11-03"
+  },
+  {
+    "User_ID": "bc065eda6ae14160a369851020fc455c",
+    "Name": "Bruno Alves",
+    "Email": "bruno.alves137@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-08-06"
+  },
+  {
+    "User_ID": "bd51bc2f00f84e1db2f27126edd35eee",
+    "Name": "Joao Carvalho",
+    "Email": "joao.carvalho138@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2025-05-15"
+  },
+  {
+    "User_ID": "be1f864e61a04735bdf72a65bcc53a45",
+    "Name": "Carla Pereira",
+    "Email": "carla.pereira139@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-07-22"
+  },
+  {
+    "User_ID": "be642230912248b796c7ca5832c53a51",
+    "Name": "Ursula Martins",
+    "Email": "ursula.martins140@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-12-23"
+  },
+  {
+    "User_ID": "be84f70adf5840ce877540d1bcb83c07",
+    "Name": "Joao Monteiro",
+    "Email": "joao.monteiro141@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-01-28"
+  },
+  {
+    "User_ID": "bedc9206d16b42eea75eb92f8b777b89",
+    "Name": "Joao Carvalho",
+    "Email": "joao.carvalho142@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-05-11"
+  },
+  {
+    "User_ID": "bf4c63d41664448fbffcd6f64db2ca7e",
+    "Name": "Isabela Rodrigues",
+    "Email": "isabela.rodrigues143@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2024-12-04"
+  },
+  {
+    "User_ID": "c21e651c361f47e49737ee72846d8232",
+    "Name": "Isabela Monteiro",
+    "Email": "isabela.monteiro144@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-06-15"
+  },
+  {
+    "User_ID": "c2b506fd9da34280882363432dff88a5",
+    "Name": "Diego Pereira",
+    "Email": "diego.pereira145@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-03-22"
+  },
+  {
+    "User_ID": "c535e600a1fc4db0a34ddb42ab4865eb",
+    "Name": "Gabriela Carvalho",
+    "Email": "gabriela.carvalho146@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-10-23"
+  },
+  {
+    "User_ID": "c6023abf50004172b764803b1f227fe4",
+    "Name": "Hugo Souza",
+    "Email": "hugo.souza147@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-07-14"
+  },
+  {
+    "User_ID": "c646d1e486ea4072b9e9222e3bc76215",
+    "Name": "Eduardo Gomes",
+    "Email": "eduardo.gomes148@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2022-11-07"
+  },
+  {
+    "User_ID": "c8aef02f8b904da3b09f2e0b1305f2bb",
+    "Name": "Pedro Araujo",
+    "Email": "pedro.araujo149@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2025-01-24"
+  },
+  {
+    "User_ID": "c8edab87551e4caaa89836167f4280be",
+    "Name": "Zeca Almeida",
+    "Email": "zeca.almeida150@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-01-09"
+  },
+  {
+    "User_ID": "cb6845a0c5d9434da0210497c687bf46",
+    "Name": "Karina Lima",
+    "Email": "karina.lima151@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-09-13"
+  },
+  {
+    "User_ID": "cde436b886ea41e987f6157cd42c1ab6",
+    "Name": "Zeca Lima",
+    "Email": "zeca.lima152@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-12-06"
+  },
+  {
+    "User_ID": "cde8f700fde847528627fea413684c3b",
+    "Name": "Rafael Almeida",
+    "Email": "rafael.almeida153@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-09-17"
+  },
+  {
+    "User_ID": "cf180c4c942949e3a4d73d95daac47ab",
+    "Name": "Eduardo Ribeiro",
+    "Email": "eduardo.ribeiro154@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-01-21"
+  },
+  {
+    "User_ID": "cf8f62dcb19b4131afda85ea086e3f26",
+    "Name": "Elisa Almeida",
+    "Email": "elisa.almeida155@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-07-23"
+  },
+  {
+    "User_ID": "cf908ef6a25d4a75ae10cb6f42cb678f",
+    "Name": "Carla Fernandes",
+    "Email": "carla.fernandes156@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-02-15"
+  },
+  {
+    "User_ID": "cfca48631bd449a190ed0cbe755d6113",
+    "Name": "Patricia Monteiro",
+    "Email": "patricia.monteiro157@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-09-03"
+  },
+  {
+    "User_ID": "d116cf6fdbf94e0dbc4de1a36cac32fe",
+    "Name": "Eduardo Araujo",
+    "Email": "eduardo.araujo158@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-02-27"
+  },
+  {
+    "User_ID": "d1361a92fc8441a6a806c136a0754920",
+    "Name": "Vinicius Fernandes",
+    "Email": "vinicius.fernandes159@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2025-06-27"
+  },
+  {
+    "User_ID": "d17437a8ebd247289fc81848de05172f",
+    "Name": "Thiago Alves",
+    "Email": "thiago.alves160@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-01-13"
+  },
+  {
+    "User_ID": "d494eeed77d8442a9bd9e1ea4178c078",
+    "Name": "Joao Carvalho",
+    "Email": "joao.carvalho161@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2025-11-26"
+  },
+  {
+    "User_ID": "d96f2fe4112f4f2c93076f9d5de4d479",
+    "Name": "Gabriela Gomes",
+    "Email": "gabriela.gomes162@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-03-17"
+  },
+  {
+    "User_ID": "db8fea97bd6b42eab591d30375898eeb",
+    "Name": "Sabrina Carvalho",
+    "Email": "sabrina.carvalho163@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2023-09-05"
+  },
+  {
+    "User_ID": "dd52463406334a999ea368b761a29b1e",
+    "Name": "Sabrina Araujo",
+    "Email": "sabrina.araujo164@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2026-01-24"
+  },
+  {
+    "User_ID": "dd5b0ad9ad754dd48858124e1785ec65",
+    "Name": "Pedro Cardoso",
+    "Email": "pedro.cardoso165@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2024-06-14"
+  },
+  {
+    "User_ID": "dd71f5b8bc6f4c10ab898f9ac181f757",
+    "Name": "Pedro Martins",
+    "Email": "pedro.martins166@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-02-19"
+  },
+  {
+    "User_ID": "dd80c9b97c71401f84179ba6be6af88c",
+    "Name": "Queila Ribeiro",
+    "Email": "queila.ribeiro167@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-01-11"
+  },
+  {
+    "User_ID": "de5a8011c9bd4b86a4299371235f78a7",
+    "Name": "Ximena Cardoso",
+    "Email": "ximena.cardoso168@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-07-20"
+  },
+  {
+    "User_ID": "de84a960e8674b2fbf714dd2b94b11fb",
+    "Name": "Patricia Monteiro",
+    "Email": "patricia.monteiro169@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2022-02-28"
+  },
+  {
+    "User_ID": "decdb4d405e5413b9b7762a11a076bfb",
+    "Name": "Queila Carvalho",
+    "Email": "queila.carvalho170@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-12-04"
+  },
+  {
+    "User_ID": "df7dc057c2764d11a2c5bee85c2e0e30",
+    "Name": "Vinicius Carvalho",
+    "Email": "vinicius.carvalho171@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2021-12-28"
+  },
+  {
+    "User_ID": "df909cd1503f4e6fa2bba244ba37bae6",
+    "Name": "Sabrina Costa",
+    "Email": "sabrina.costa172@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2026-07-19"
+  },
+  {
+    "User_ID": "e02cc177b5ea4d57ba0e4dc4b04e8c56",
+    "Name": "Diego Ribeiro",
+    "Email": "diego.ribeiro173@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-09-19"
+  },
+  {
+    "User_ID": "e07c64a7f52d4b71bce6e77e82a43ceb",
+    "Name": "Joao Almeida",
+    "Email": "joao.almeida174@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2021-06-06"
+  },
+  {
+    "User_ID": "e28b6202015d4a958800f8d3ad7384fb",
+    "Name": "Patricia Martins",
+    "Email": "patricia.martins175@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2024-03-12"
+  },
+  {
+    "User_ID": "e3d0068423cf4c7ca09d7d4458b00655",
+    "Name": "Joao Silva",
+    "Email": "joao.silva176@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2023-05-11"
+  },
+  {
+    "User_ID": "e47e8f3dbfd34b25982d756fe1cb571d",
+    "Name": "Eduardo Rocha",
+    "Email": "eduardo.rocha177@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2022-05-28"
+  },
+  {
+    "User_ID": "e5eef25ef3c0483aa7759419d6d8d6f5",
+    "Name": "Karina Fernandes",
+    "Email": "karina.fernandes178@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-03-21"
+  },
+  {
+    "User_ID": "e6503e4a0a584eee83e98b19c79bf936",
+    "Name": "Gabriela Souza",
+    "Email": "gabriela.souza179@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2023-12-27"
+  },
+  {
+    "User_ID": "e7f7d84457864ff796feb0b5f7056ffc",
+    "Name": "Rodrigo Gomes",
+    "Email": "rodrigo.gomes180@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2023-12-25"
+  },
+  {
+    "User_ID": "e8ace63711f143f69484549b01dd69da",
+    "Name": "Carla Costa",
+    "Email": "carla.costa181@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2023-02-23"
+  },
+  {
+    "User_ID": "e9377a1edbb449368337b245828319ac",
+    "Name": "Fernando Almeida",
+    "Email": "fernando.almeida182@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-05-26"
+  },
+  {
+    "User_ID": "ec571f457de74117b2077cadecd1d4b8",
+    "Name": "Zeca Ribeiro",
+    "Email": "zeca.ribeiro183@teste.com",
+    "City": "Rio de Janeiro",
+    "State": "RJ",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-09-08"
+  },
+  {
+    "User_ID": "ec8f24ff1ff44e71a01bdabeeae89259",
+    "Name": "Vinicius Almeida",
+    "Email": "vinicius.almeida184@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Free",
+    "Active": false,
+    "Signup_Date": "2022-11-22"
+  },
+  {
+    "User_ID": "ef1db2bdf9cf4881a8fcb3d9527a5570",
+    "Name": "Carla Martins",
+    "Email": "carla.martins185@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2021-09-02"
+  },
+  {
+    "User_ID": "ef22126738b541408202a0779530e376",
+    "Name": "Rafael Nascimento",
+    "Email": "rafael.nascimento186@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2025-02-06"
+  },
+  {
+    "User_ID": "efe4a4a309f249efb394abc3fa6fa9cb",
+    "Name": "Hugo Costa",
+    "Email": "hugo.costa187@teste.com",
+    "City": "Belo Horizonte",
+    "State": "MG",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2026-01-06"
+  },
+  {
+    "User_ID": "f0cfef199d234afdafb2fb01928dde3c",
+    "Name": "Thiago Martins",
+    "Email": "thiago.martins188@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2024-01-16"
+  },
+  {
+    "User_ID": "f16f7391360f43c6a04a782b6bd7457e",
+    "Name": "Carla Alves",
+    "Email": "carla.alves189@teste.com",
+    "City": "Pato Branco",
+    "State": "PR",
+    "Plan": "Free",
+    "Active": true,
+    "Signup_Date": "2023-11-16"
+  },
+  {
+    "User_ID": "f1ee98b4c72f4bd48a665335bfdf46d5",
+    "Name": "Queila Ribeiro",
+    "Email": "queila.ribeiro190@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2022-10-25"
+  },
+  {
+    "User_ID": "f27ceb737b3746899ba6f333b51bc741",
+    "Name": "Thiago Gomes",
+    "Email": "thiago.gomes191@teste.com",
+    "City": "Porto Alegre",
+    "State": "RS",
+    "Plan": "Premium",
+    "Active": true,
+    "Signup_Date": "2026-08-18"
+  },
+  {
+    "User_ID": "f32de6ee04be435eb3746b6d745056e7",
+    "Name": "Isabela Rocha",
+    "Email": "isabela.rocha192@teste.com",
+    "City": "Recife",
+    "State": "PE",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2022-10-20"
+  },
+  {
+    "User_ID": "f6c888d5bf424cb58cd9f25a5f4c4ed8",
+    "Name": "Bruno Rodrigues",
+    "Email": "bruno.rodrigues193@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2026-01-19"
+  },
+  {
+    "User_ID": "f989681bd5d74280b0093a767ccede49",
+    "Name": "Karina Pereira",
+    "Email": "karina.pereira194@teste.com",
+    "City": "Brasilia",
+    "State": "DF",
+    "Plan": "Enterprise",
+    "Active": false,
+    "Signup_Date": "2021-10-16"
+  },
+  {
+    "User_ID": "f9b16602da4c448d8fa3d6fa22f1b401",
+    "Name": "Ximena Nascimento",
+    "Email": "ximena.nascimento195@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2021-02-06"
+  },
+  {
+    "User_ID": "f9ecb2654e5d4a5e8167efbf5f4126dd",
+    "Name": "Bruno Lima",
+    "Email": "bruno.lima196@teste.com",
+    "City": "Florianopolis",
+    "State": "SC",
+    "Plan": "Premium",
+    "Active": false,
+    "Signup_Date": "2021-12-11"
+  },
+  {
+    "User_ID": "f9f39e48daa94f23a3224c2b85d4edbc",
+    "Name": "Carla Ribeiro",
+    "Email": "carla.ribeiro197@teste.com",
+    "City": "Curitiba",
+    "State": "PR",
+    "Plan": "Basico",
+    "Active": false,
+    "Signup_Date": "2024-05-08"
+  },
+  {
+    "User_ID": "fdd16e481c4b4d08b519490e79eadae9",
+    "Name": "Wesley Cardoso",
+    "Email": "wesley.cardoso198@teste.com",
+    "City": "Salvador",
+    "State": "BA",
+    "Plan": "Enterprise",
+    "Active": true,
+    "Signup_Date": "2021-06-14"
+  },
+  {
+    "User_ID": "ff6a97786b76418aad6b6688626775dd",
+    "Name": "Wesley Rodrigues",
+    "Email": "wesley.rodrigues199@teste.com",
+    "City": "Sao Paulo",
+    "State": "SP",
+    "Plan": "Basico",
+    "Active": true,
+    "Signup_Date": "2022-08-25"
+  }
+]
