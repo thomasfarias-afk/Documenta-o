@@ -1,210 +1,2203 @@
-=====================================================
-ARQUIVO DE TESTE - DADOS FICTICIOS PARA N8N
-=====================================================
 
---- PRODUTOS ---
-ID: 1 | Nome: Notebook Pro 15 | Categoria: Decoracao | Preco: 583.22 | Estoque: 192
-ID: 2 | Nome: Mouse Sem Fio | Categoria: Papelaria | Preco: 1247.01 | Estoque: 38
-ID: 3 | Nome: Cadeira Ergonomica | Categoria: Decoracao | Preco: 539.3 | Estoque: 192
-ID: 4 | Nome: Monitor 27 polegadas | Categoria: Eletrodomesticos | Preco: 461.99 | Estoque: 111
-ID: 5 | Nome: Teclado Mecanico | Categoria: Eletronicos | Preco: 177.99 | Estoque: 58
-ID: 6 | Nome: Mesa de Escritorio | Categoria: Moveis | Preco: 2541.52 | Estoque: 9
-ID: 7 | Nome: Fone Bluetooth | Categoria: Eletrodomesticos | Preco: 1018.12 | Estoque: 169
-ID: 8 | Nome: Luminaria de Mesa | Categoria: Decoracao | Preco: 2738.26 | Estoque: 59
-ID: 9 | Nome: Webcam Full HD | Categoria: Informatica | Preco: 2958.55 | Estoque: 4
-ID: 10 | Nome: Caderno Universitario | Categoria: Moveis | Preco: 3499.65 | Estoque: 90
-ID: 11 | Nome: Caneta Esferografica Kit | Categoria: Papelaria | Preco: 802.63 | Estoque: 198
-ID: 12 | Nome: Grampeador | Categoria: Papelaria | Preco: 537.89 | Estoque: 100
-ID: 13 | Nome: Impressora Multifuncional | Categoria: Eletronicos | Preco: 1814.03 | Estoque: 91
-ID: 14 | Nome: HD Externo 1TB | Categoria: Eletrodomesticos | Preco: 1344.57 | Estoque: 14
-ID: 15 | Nome: Pendrive 64GB | Categoria: Decoracao | Preco: 2313.24 | Estoque: 34
-ID: 16 | Nome: Roteador Wifi 6 | Categoria: Informatica | Preco: 421.54 | Estoque: 78
-ID: 17 | Nome: Cafeteira Eletrica | Categoria: Decoracao | Preco: 3103.94 | Estoque: 95
-ID: 18 | Nome: Micro-ondas 30L | Categoria: Eletrodomesticos | Preco: 985.57 | Estoque: 20
-ID: 19 | Nome: Ventilador de Mesa | Categoria: Eletronicos | Preco: 3316.38 | Estoque: 200
-ID: 20 | Nome: Quadro Decorativo | Categoria: Papelaria | Preco: 4926.45 | Estoque: 62
-ID: 21 | Nome: Tapete para Escritorio | Categoria: Eletronicos | Preco: 1919.13 | Estoque: 119
-ID: 22 | Nome: Organizador de Mesa | Categoria: Decoracao | Preco: 4175.43 | Estoque: 44
-ID: 23 | Nome: Suporte para Notebook | Categoria: Papelaria | Preco: 1795.6 | Estoque: 174
-ID: 24 | Nome: Headset Gamer | Categoria: Papelaria | Preco: 3517.95 | Estoque: 177
-ID: 25 | Nome: Cadeira Gamer | Categoria: Decoracao | Preco: 384.77 | Estoque: 165
-ID: 26 | Nome: Mesa Digitalizadora | Categoria: Moveis | Preco: 2684.58 | Estoque: 65
-ID: 27 | Nome: Estabilizador de Energia | Categoria: Moveis | Preco: 2327.33 | Estoque: 72
-ID: 28 | Nome: Filtro de Linha | Categoria: Decoracao | Preco: 3450.06 | Estoque: 59
-ID: 29 | Nome: Lixeira de Escritorio | Categoria: Decoracao | Preco: 1641.59 | Estoque: 199
-ID: 30 | Nome: Ar Condicionado Portatil | Categoria: Eletronicos | Preco: 1168.27 | Estoque: 11
-ID: 31 | Nome: Purificador de Ar | Categoria: Papelaria | Preco: 2023.69 | Estoque: 19
-ID: 32 | Nome: Cofre Eletronico | Categoria: Moveis | Preco: 4568.19 | Estoque: 148
-ID: 33 | Nome: Painel de LED | Categoria: Decoracao | Preco: 1593.85 | Estoque: 170
-ID: 34 | Nome: Divisoria de Ambiente | Categoria: Informatica | Preco: 1996.19 | Estoque: 167
-ID: 35 | Nome: Armario de Aco | Categoria: Informatica | Preco: 739.97 | Estoque: 38
-ID: 36 | Nome: Prateleira Modular | Categoria: Moveis | Preco: 3732.5 | Estoque: 140
-ID: 37 | Nome: Calculadora Cientifica | Categoria: Papelaria | Preco: 3742.56 | Estoque: 112
-ID: 38 | Nome: Agenda Executiva | Categoria: Eletrodomesticos | Preco: 2014.92 | Estoque: 59
-ID: 39 | Nome: Porta Cartao | Categoria: Moveis | Preco: 2562.25 | Estoque: 26
-ID: 40 | Nome: Mochila para Notebook | Categoria: Eletronicos | Preco: 4309.58 | Estoque: 42
-
---- VENDAS ---
-ID_Venda: 101 | ID_Produto: 11 | Quantidade: 22 | Data: 2026-07-20 | Cliente: Empresa B | Total: 17657.86
-ID_Venda: 102 | ID_Produto: 25 | Quantidade: 13 | Data: 2026-08-17 | Cliente: Empresa E | Total: 5002.01
-ID_Venda: 103 | ID_Produto: 36 | Quantidade: 1 | Data: 2026-02-22 | Cliente: Empresa E | Total: 3732.5
-ID_Venda: 104 | ID_Produto: 22 | Quantidade: 4 | Data: 2026-05-14 | Cliente: Empresa C | Total: 16701.72
-ID_Venda: 105 | ID_Produto: 30 | Quantidade: 1 | Data: 2026-05-17 | Cliente: Empresa C | Total: 1168.27
-ID_Venda: 106 | ID_Produto: 33 | Quantidade: 4 | Data: 2026-05-27 | Cliente: Empresa D | Total: 6375.4
-ID_Venda: 107 | ID_Produto: 10 | Quantidade: 12 | Data: 2026-03-18 | Cliente: Empresa A | Total: 41995.8
-ID_Venda: 108 | ID_Produto: 39 | Quantidade: 11 | Data: 2026-08-01 | Cliente: Empresa B | Total: 28184.75
-ID_Venda: 109 | ID_Produto: 24 | Quantidade: 10 | Data: 2026-04-02 | Cliente: Empresa D | Total: 35179.5
-ID_Venda: 110 | ID_Produto: 37 | Quantidade: 3 | Data: 2026-02-24 | Cliente: Empresa H | Total: 11227.68
-ID_Venda: 111 | ID_Produto: 5 | Quantidade: 25 | Data: 2026-03-05 | Cliente: Empresa H | Total: 4449.75
-ID_Venda: 112 | ID_Produto: 36 | Quantidade: 6 | Data: 2026-05-17 | Cliente: Empresa G | Total: 22395.0
-ID_Venda: 113 | ID_Produto: 14 | Quantidade: 18 | Data: 2026-04-23 | Cliente: Empresa E | Total: 24202.26
-ID_Venda: 114 | ID_Produto: 26 | Quantidade: 22 | Data: 2026-06-15 | Cliente: Empresa H | Total: 59060.76
-ID_Venda: 115 | ID_Produto: 8 | Quantidade: 8 | Data: 2026-04-03 | Cliente: Empresa F | Total: 21906.08
-ID_Venda: 116 | ID_Produto: 2 | Quantidade: 19 | Data: 2026-04-19 | Cliente: Empresa D | Total: 23693.19
-ID_Venda: 117 | ID_Produto: 1 | Quantidade: 3 | Data: 2026-01-08 | Cliente: Empresa B | Total: 1749.66
-ID_Venda: 118 | ID_Produto: 3 | Quantidade: 11 | Data: 2026-02-17 | Cliente: Empresa D | Total: 5932.3
-ID_Venda: 119 | ID_Produto: 18 | Quantidade: 22 | Data: 2026-08-07 | Cliente: Empresa C | Total: 21682.54
-ID_Venda: 120 | ID_Produto: 37 | Quantidade: 19 | Data: 2026-08-08 | Cliente: Empresa H | Total: 71108.64
-ID_Venda: 121 | ID_Produto: 27 | Quantidade: 7 | Data: 2026-02-04 | Cliente: Empresa G | Total: 16291.31
-ID_Venda: 122 | ID_Produto: 23 | Quantidade: 14 | Data: 2026-07-15 | Cliente: Empresa A | Total: 25138.4
-ID_Venda: 123 | ID_Produto: 7 | Quantidade: 2 | Data: 2026-07-24 | Cliente: Empresa F | Total: 2036.24
-ID_Venda: 124 | ID_Produto: 7 | Quantidade: 8 | Data: 2026-04-07 | Cliente: Empresa H | Total: 8144.96
-ID_Venda: 125 | ID_Produto: 9 | Quantidade: 14 | Data: 2026-03-09 | Cliente: Empresa H | Total: 41419.7
-ID_Venda: 126 | ID_Produto: 16 | Quantidade: 3 | Data: 2026-08-26 | Cliente: Empresa B | Total: 1264.62
-ID_Venda: 127 | ID_Produto: 4 | Quantidade: 21 | Data: 2026-01-03 | Cliente: Empresa D | Total: 9701.79
-ID_Venda: 128 | ID_Produto: 11 | Quantidade: 14 | Data: 2026-08-16 | Cliente: Empresa D | Total: 11236.82
-ID_Venda: 129 | ID_Produto: 26 | Quantidade: 2 | Data: 2026-03-13 | Cliente: Empresa A | Total: 5369.16
-ID_Venda: 130 | ID_Produto: 25 | Quantidade: 9 | Data: 2026-08-10 | Cliente: Empresa G | Total: 3462.93
-ID_Venda: 131 | ID_Produto: 36 | Quantidade: 22 | Data: 2026-08-05 | Cliente: Empresa D | Total: 82115.0
-ID_Venda: 132 | ID_Produto: 19 | Quantidade: 7 | Data: 2026-01-19 | Cliente: Empresa A | Total: 23214.66
-ID_Venda: 133 | ID_Produto: 21 | Quantidade: 2 | Data: 2026-01-19 | Cliente: Empresa H | Total: 3838.26
-ID_Venda: 134 | ID_Produto: 33 | Quantidade: 17 | Data: 2026-03-02 | Cliente: Empresa B | Total: 27095.45
-ID_Venda: 135 | ID_Produto: 12 | Quantidade: 3 | Data: 2026-02-22 | Cliente: Empresa D | Total: 1613.67
-ID_Venda: 136 | ID_Produto: 26 | Quantidade: 4 | Data: 2026-04-19 | Cliente: Empresa A | Total: 10738.32
-ID_Venda: 137 | ID_Produto: 40 | Quantidade: 3 | Data: 2026-07-22 | Cliente: Empresa F | Total: 12928.74
-ID_Venda: 138 | ID_Produto: 17 | Quantidade: 7 | Data: 2026-06-08 | Cliente: Empresa E | Total: 21727.58
-ID_Venda: 139 | ID_Produto: 26 | Quantidade: 5 | Data: 2026-05-15 | Cliente: Empresa F | Total: 13422.9
-ID_Venda: 140 | ID_Produto: 5 | Quantidade: 1 | Data: 2026-08-20 | Cliente: Empresa B | Total: 177.99
-ID_Venda: 141 | ID_Produto: 5 | Quantidade: 18 | Data: 2026-04-17 | Cliente: Empresa E | Total: 3203.82
-ID_Venda: 142 | ID_Produto: 9 | Quantidade: 12 | Data: 2026-02-08 | Cliente: Empresa F | Total: 35502.6
-ID_Venda: 143 | ID_Produto: 19 | Quantidade: 6 | Data: 2026-08-27 | Cliente: Empresa E | Total: 19898.28
-ID_Venda: 144 | ID_Produto: 40 | Quantidade: 21 | Data: 2026-01-22 | Cliente: Empresa E | Total: 90501.18
-ID_Venda: 145 | ID_Produto: 7 | Quantidade: 5 | Data: 2026-05-04 | Cliente: Empresa B | Total: 5090.6
-ID_Venda: 146 | ID_Produto: 36 | Quantidade: 5 | Data: 2026-05-10 | Cliente: Empresa D | Total: 18662.5
-ID_Venda: 147 | ID_Produto: 22 | Quantidade: 7 | Data: 2026-05-17 | Cliente: Empresa H | Total: 29228.01
-ID_Venda: 148 | ID_Produto: 17 | Quantidade: 2 | Data: 2026-02-21 | Cliente: Empresa G | Total: 6207.88
-ID_Venda: 149 | ID_Produto: 18 | Quantidade: 2 | Data: 2026-01-11 | Cliente: Empresa C | Total: 1971.14
-ID_Venda: 150 | ID_Produto: 17 | Quantidade: 6 | Data: 2026-08-18 | Cliente: Empresa G | Total: 18623.64
-ID_Venda: 151 | ID_Produto: 36 | Quantidade: 1 | Data: 2026-02-03 | Cliente: Empresa C | Total: 3732.5
-ID_Venda: 152 | ID_Produto: 35 | Quantidade: 2 | Data: 2026-06-19 | Cliente: Empresa C | Total: 1479.94
-ID_Venda: 153 | ID_Produto: 28 | Quantidade: 5 | Data: 2026-01-10 | Cliente: Empresa F | Total: 17250.3
-ID_Venda: 154 | ID_Produto: 3 | Quantidade: 12 | Data: 2026-04-22 | Cliente: Empresa D | Total: 6471.6
-ID_Venda: 155 | ID_Produto: 7 | Quantidade: 12 | Data: 2026-07-20 | Cliente: Empresa C | Total: 12217.44
-ID_Venda: 156 | ID_Produto: 16 | Quantidade: 6 | Data: 2026-03-14 | Cliente: Empresa A | Total: 2529.24
-ID_Venda: 157 | ID_Produto: 12 | Quantidade: 24 | Data: 2026-06-26 | Cliente: Empresa G | Total: 12909.36
-ID_Venda: 158 | ID_Produto: 16 | Quantidade: 9 | Data: 2026-03-26 | Cliente: Empresa B | Total: 3793.86
-ID_Venda: 159 | ID_Produto: 25 | Quantidade: 2 | Data: 2026-08-08 | Cliente: Empresa D | Total: 769.54
-ID_Venda: 160 | ID_Produto: 30 | Quantidade: 12 | Data: 2026-05-27 | Cliente: Empresa D | Total: 14019.24
-
---- COMPRAS (FORNECEDORES) ---
-ID_Compra: 201 | ID_Produto: 15 | Quantidade: 6 | Data: 2026-04-13 | Fornecedor: Fornecedor Z | Total: 7906.44
-ID_Compra: 202 | ID_Produto: 5 | Quantidade: 54 | Data: 2026-05-12 | Fornecedor: Fornecedor Delta | Total: 6029.64
-ID_Compra: 203 | ID_Produto: 35 | Quantidade: 26 | Data: 2026-01-04 | Fornecedor: Fornecedor Z | Total: 10478.52
-ID_Compra: 204 | ID_Produto: 17 | Quantidade: 7 | Data: 2026-02-20 | Fornecedor: Fornecedor Alpha | Total: 12741.54
-ID_Compra: 205 | ID_Produto: 21 | Quantidade: 32 | Data: 2026-02-13 | Fornecedor: Fornecedor Beta | Total: 33624.32
-ID_Compra: 206 | ID_Produto: 3 | Quantidade: 50 | Data: 2026-07-01 | Fornecedor: Fornecedor Beta | Total: 19722.0
-ID_Compra: 207 | ID_Produto: 35 | Quantidade: 48 | Data: 2026-04-12 | Fornecedor: Fornecedor Alpha | Total: 18380.64
-ID_Compra: 208 | ID_Produto: 22 | Quantidade: 44 | Data: 2026-06-22 | Fornecedor: Fornecedor X | Total: 124917.76
-ID_Compra: 209 | ID_Produto: 20 | Quantidade: 37 | Data: 2026-05-22 | Fornecedor: Fornecedor Alpha | Total: 106003.52
-ID_Compra: 210 | ID_Produto: 19 | Quantidade: 40 | Data: 2026-03-07 | Fornecedor: Fornecedor Alpha | Total: 88379.2
-ID_Compra: 211 | ID_Produto: 25 | Quantidade: 48 | Data: 2026-03-20 | Fornecedor: Fornecedor Beta | Total: 10623.84
-ID_Compra: 212 | ID_Produto: 36 | Quantidade: 58 | Data: 2026-01-10 | Fornecedor: Fornecedor Z | Total: 119618.04
-ID_Compra: 213 | ID_Produto: 38 | Quantidade: 43 | Data: 2026-06-15 | Fornecedor: Fornecedor Alpha | Total: 52898.17
-ID_Compra: 214 | ID_Produto: 14 | Quantidade: 37 | Data: 2026-08-26 | Fornecedor: Fornecedor Delta | Total: 26985.21
-ID_Compra: 215 | ID_Produto: 6 | Quantidade: 23 | Data: 2026-06-03 | Fornecedor: Fornecedor Y | Total: 39059.52
-ID_Compra: 216 | ID_Produto: 15 | Quantidade: 56 | Data: 2026-04-05 | Fornecedor: Fornecedor X | Total: 66267.6
-ID_Compra: 217 | ID_Produto: 31 | Quantidade: 44 | Data: 2026-02-15 | Fornecedor: Fornecedor Alpha | Total: 64247.04
-ID_Compra: 218 | ID_Produto: 37 | Quantidade: 17 | Data: 2026-07-16 | Fornecedor: Fornecedor Alpha | Total: 35692.52
-ID_Compra: 219 | ID_Produto: 1 | Quantidade: 53 | Data: 2026-02-25 | Fornecedor: Fornecedor Alpha | Total: 17146.56
-ID_Compra: 220 | ID_Produto: 34 | Quantidade: 34 | Data: 2026-01-18 | Fornecedor: Fornecedor Y | Total: 49502.64
-ID_Compra: 221 | ID_Produto: 8 | Quantidade: 34 | Data: 2026-03-26 | Fornecedor: Fornecedor Alpha | Total: 62088.42
-ID_Compra: 222 | ID_Produto: 36 | Quantidade: 43 | Data: 2026-06-25 | Fornecedor: Fornecedor Alpha | Total: 104830.99
-ID_Compra: 223 | ID_Produto: 33 | Quantidade: 32 | Data: 2026-08-06 | Fornecedor: Fornecedor Delta | Total: 36486.4
-ID_Compra: 224 | ID_Produto: 29 | Quantidade: 21 | Data: 2026-04-27 | Fornecedor: Fornecedor Delta | Total: 19626.6
-ID_Compra: 225 | ID_Produto: 34 | Quantidade: 36 | Data: 2026-04-09 | Fornecedor: Fornecedor Alpha | Total: 37323.36
-ID_Compra: 226 | ID_Produto: 19 | Quantidade: 20 | Data: 2026-05-11 | Fornecedor: Fornecedor Z | Total: 47971.8
-ID_Compra: 227 | ID_Produto: 6 | Quantidade: 13 | Data: 2026-03-08 | Fornecedor: Fornecedor Alpha | Total: 22251.84
-ID_Compra: 228 | ID_Produto: 14 | Quantidade: 9 | Data: 2026-07-14 | Fornecedor: Fornecedor Z | Total: 7692.12
-ID_Compra: 229 | ID_Produto: 27 | Quantidade: 8 | Data: 2026-04-27 | Fornecedor: Fornecedor Alpha | Total: 11122.24
-ID_Compra: 230 | ID_Produto: 38 | Quantidade: 49 | Data: 2026-01-28 | Fornecedor: Fornecedor Beta | Total: 58754.43
-ID_Compra: 231 | ID_Produto: 1 | Quantidade: 27 | Data: 2026-05-25 | Fornecedor: Fornecedor Alpha | Total: 11233.35
-ID_Compra: 232 | ID_Produto: 27 | Quantidade: 39 | Data: 2026-04-16 | Fornecedor: Fornecedor Y | Total: 51576.33
-ID_Compra: 233 | ID_Produto: 32 | Quantidade: 6 | Data: 2026-07-11 | Fornecedor: Fornecedor Delta | Total: 18358.26
-ID_Compra: 234 | ID_Produto: 26 | Quantidade: 51 | Data: 2026-03-27 | Fornecedor: Fornecedor Alpha | Total: 99931.44
-ID_Compra: 235 | ID_Produto: 40 | Quantidade: 39 | Data: 2026-01-13 | Fornecedor: Fornecedor Beta | Total: 107751.54
-ID_Compra: 236 | ID_Produto: 2 | Quantidade: 10 | Data: 2026-07-05 | Fornecedor: Fornecedor Alpha | Total: 6801.6
-ID_Compra: 237 | ID_Produto: 17 | Quantidade: 29 | Data: 2026-06-07 | Fornecedor: Fornecedor Alpha | Total: 52362.4
-ID_Compra: 238 | ID_Produto: 25 | Quantidade: 22 | Data: 2026-07-09 | Fornecedor: Fornecedor X | Total: 5227.64
-ID_Compra: 239 | ID_Produto: 35 | Quantidade: 8 | Data: 2026-06-08 | Fornecedor: Fornecedor Delta | Total: 3061.44
-ID_Compra: 240 | ID_Produto: 3 | Quantidade: 53 | Data: 2026-01-08 | Fornecedor: Fornecedor Y | Total: 20288.4
-ID_Compra: 241 | ID_Produto: 40 | Quantidade: 14 | Data: 2026-04-05 | Fornecedor: Fornecedor Alpha | Total: 40264.84
-ID_Compra: 242 | ID_Produto: 37 | Quantidade: 18 | Data: 2026-08-23 | Fornecedor: Fornecedor Z | Total: 46598.76
-ID_Compra: 243 | ID_Produto: 11 | Quantidade: 43 | Data: 2026-02-25 | Fornecedor: Fornecedor Y | Total: 25580.27
-ID_Compra: 244 | ID_Produto: 7 | Quantidade: 42 | Data: 2026-01-10 | Fornecedor: Fornecedor Beta | Total: 28621.74
-ID_Compra: 245 | ID_Produto: 25 | Quantidade: 30 | Data: 2026-04-03 | Fornecedor: Fornecedor Beta | Total: 7764.6
-
---- PESQUISA DE SATISFACAO ---
-ID_Pesquisa: 301 | Cliente: Empresa D | Nota: 4 | Comentario: Demorou para responder o chamado | Data: 2026-05-28
-ID_Pesquisa: 302 | Cliente: Empresa B | Nota: 10 | Comentario: Suporte tecnico muito atencioso | Data: 2026-01-12
-ID_Pesquisa: 303 | Cliente: Empresa G | Nota: 9 | Comentario: Atendimento poderia melhorar | Data: 2026-02-17
-ID_Pesquisa: 304 | Cliente: Empresa F | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-07-27
-ID_Pesquisa: 305 | Cliente: Empresa H | Nota: 4 | Comentario: Superou minhas expectativas | Data: 2026-06-21
-ID_Pesquisa: 306 | Cliente: Empresa H | Nota: 9 | Comentario: Excelente qualidade e suporte | Data: 2026-07-06
-ID_Pesquisa: 307 | Cliente: Empresa E | Nota: 8 | Comentario: Produto exatamente como descrito | Data: 2026-08-15
-ID_Pesquisa: 308 | Cliente: Empresa G | Nota: 10 | Comentario: Demorou para responder o chamado | Data: 2026-05-11
-ID_Pesquisa: 309 | Cliente: Empresa D | Nota: 10 | Comentario: Voltaria a comprar com certeza | Data: 2026-02-09
-ID_Pesquisa: 310 | Cliente: Empresa H | Nota: 5 | Comentario: Produto exatamente como descrito | Data: 2026-08-19
-ID_Pesquisa: 311 | Cliente: Empresa G | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-08-28
-ID_Pesquisa: 312 | Cliente: Empresa F | Nota: 5 | Comentario: Entrega dentro do prazo, produto ok | Data: 2026-04-12
-ID_Pesquisa: 313 | Cliente: Empresa E | Nota: 6 | Comentario: Recompraria sem duvida | Data: 2026-05-18
-ID_Pesquisa: 314 | Cliente: Empresa A | Nota: 8 | Comentario: Preco um pouco alto | Data: 2026-02-08
-ID_Pesquisa: 315 | Cliente: Empresa G | Nota: 7 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-04-23
-ID_Pesquisa: 316 | Cliente: Empresa H | Nota: 9 | Comentario: Demorou para responder o chamado | Data: 2026-08-15
-ID_Pesquisa: 317 | Cliente: Empresa A | Nota: 4 | Comentario: Recompraria sem duvida | Data: 2026-04-13
-ID_Pesquisa: 318 | Cliente: Empresa D | Nota: 6 | Comentario: Preco justo pela qualidade | Data: 2026-06-16
-ID_Pesquisa: 319 | Cliente: Empresa F | Nota: 7 | Comentario: Demorou para responder o chamado | Data: 2026-06-12
-ID_Pesquisa: 320 | Cliente: Empresa H | Nota: 6 | Comentario: Recompraria sem duvida | Data: 2026-05-08
-ID_Pesquisa: 321 | Cliente: Empresa B | Nota: 9 | Comentario: Preco um pouco alto | Data: 2026-06-04
-ID_Pesquisa: 322 | Cliente: Empresa C | Nota: 5 | Comentario: Preco um pouco alto | Data: 2026-08-09
-ID_Pesquisa: 323 | Cliente: Empresa E | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-04-10
-ID_Pesquisa: 324 | Cliente: Empresa D | Nota: 6 | Comentario: Excelente qualidade e suporte | Data: 2026-05-01
-ID_Pesquisa: 325 | Cliente: Empresa C | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-01-18
-ID_Pesquisa: 326 | Cliente: Empresa E | Nota: 9 | Comentario: Excelente qualidade e suporte | Data: 2026-08-04
-ID_Pesquisa: 327 | Cliente: Empresa A | Nota: 8 | Comentario: Recompraria sem duvida | Data: 2026-08-16
-ID_Pesquisa: 328 | Cliente: Empresa H | Nota: 6 | Comentario: Excelente qualidade e suporte | Data: 2026-01-09
-ID_Pesquisa: 329 | Cliente: Empresa H | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-02-13
-ID_Pesquisa: 330 | Cliente: Empresa H | Nota: 4 | Comentario: Suporte tecnico muito atencioso | Data: 2026-01-05
-ID_Pesquisa: 331 | Cliente: Empresa C | Nota: 10 | Comentario: Suporte tecnico muito atencioso | Data: 2026-05-03
-ID_Pesquisa: 332 | Cliente: Empresa D | Nota: 4 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-07-20
-ID_Pesquisa: 333 | Cliente: Empresa D | Nota: 10 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-07-15
-ID_Pesquisa: 334 | Cliente: Empresa H | Nota: 6 | Comentario: Faltou informacao no rastreio | Data: 2026-07-10
-ID_Pesquisa: 335 | Cliente: Empresa A | Nota: 8 | Comentario: Demorou para responder o chamado | Data: 2026-02-25
-ID_Pesquisa: 336 | Cliente: Empresa D | Nota: 9 | Comentario: Preco um pouco alto | Data: 2026-05-22
-ID_Pesquisa: 337 | Cliente: Empresa B | Nota: 5 | Comentario: Preco um pouco alto | Data: 2026-03-18
-ID_Pesquisa: 338 | Cliente: Empresa B | Nota: 5 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-07-15
-ID_Pesquisa: 339 | Cliente: Empresa H | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-04-10
-ID_Pesquisa: 340 | Cliente: Empresa E | Nota: 9 | Comentario: Faltou informacao no rastreio | Data: 2026-08-03
-ID_Pesquisa: 341 | Cliente: Empresa D | Nota: 6 | Comentario: Produto exatamente como descrito | Data: 2026-04-14
-ID_Pesquisa: 342 | Cliente: Empresa B | Nota: 8 | Comentario: Preco um pouco alto | Data: 2026-03-09
-ID_Pesquisa: 343 | Cliente: Empresa C | Nota: 4 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-03-26
-ID_Pesquisa: 344 | Cliente: Empresa E | Nota: 8 | Comentario: Demorou para responder o chamado | Data: 2026-05-15
-ID_Pesquisa: 345 | Cliente: Empresa B | Nota: 7 | Comentario: Demorou para responder o chamado | Data: 2026-05-23
-ID_Pesquisa: 346 | Cliente: Empresa G | Nota: 6 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-08-15
-ID_Pesquisa: 347 | Cliente: Empresa B | Nota: 8 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-07-24
-ID_Pesquisa: 348 | Cliente: Empresa F | Nota: 8 | Comentario: Recompraria sem duvida | Data: 2026-01-03
-ID_Pesquisa: 349 | Cliente: Empresa D | Nota: 9 | Comentario: Faltou informacao no rastreio | Data: 2026-01-25
-ID_Pesquisa: 350 | Cliente: Empresa E | Nota: 8 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-03-16
-
-=====================================================
-FIM DO ARQUIVO DE TESTE
-=====================================================
+[
+  {
+    "Sale_ID": "4c1f27f49cb948b0bc67a88433dca402",
+    "User_ID": "d1361a92fc8441a6a806c136a0754920",
+    "Date": "2023-07-21T01:04:52.000Z",
+    "Product_ID": "967331f2b37a4a6c90838212c9c2df57",
+    "Product_Brand": "Elgin",
+    "Amount": 5,
+    "Unit_Cost": 1135.11,
+    "Total": 5675.55,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "68dfbc0fd68946e481c027110d7f907c",
+    "User_ID": "347e6fae14ac439581770ddafc09f24c",
+    "Date": "2023-04-02T02:27:26.000Z",
+    "Product_ID": "96e6a53346f54fa0944bad062b431ed9",
+    "Product_Brand": "Bic",
+    "Amount": 2,
+    "Unit_Cost": 1281.5,
+    "Total": 2563.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "5c101dfba5e1479fa03d23f56b7c7126",
+    "User_ID": "73140923acb54062bf7073b4c8a91844",
+    "Date": "2023-01-27T18:07:14.000Z",
+    "Product_ID": "95962a53ff554a61a6ca1ab3a0407ae3",
+    "Product_Brand": "Positivo",
+    "Amount": 14,
+    "Unit_Cost": 319.77,
+    "Total": 4476.78,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "d41830f91918417d8e819cf112160498",
+    "User_ID": "af72435bc4bc4e199904b42f31f09159",
+    "Date": "2023-01-08T01:35:54.000Z",
+    "Product_ID": "de7e643dbdf845e7a827e53b15a9dfc3",
+    "Product_Brand": "Tilibra",
+    "Amount": 13,
+    "Unit_Cost": 2020.92,
+    "Total": 26271.96,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "a170fc8b75504636b37bd38c11a4ff33",
+    "User_ID": "cf180c4c942949e3a4d73d95daac47ab",
+    "Date": "2023-02-19T09:35:52.000Z",
+    "Product_ID": "ba7269344dd141dca78d5e68deb20d48",
+    "Product_Brand": "Tilibra",
+    "Amount": 18,
+    "Unit_Cost": 1468.44,
+    "Total": 26431.92,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "dbfa7c4d41474fcdb18b4fdf865401a1",
+    "User_ID": "be642230912248b796c7ca5832c53a51",
+    "Date": "2023-04-12T03:35:45.000Z",
+    "Product_ID": "94ba0b53b1974516afae40ef9b0fda88",
+    "Product_Brand": "Bic",
+    "Amount": 21,
+    "Unit_Cost": 2036.65,
+    "Total": 42769.65,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "4e289ca4379b404b85180b80fb4101d3",
+    "User_ID": "918bb037524f49d39ab69b68ec2739ee",
+    "Date": "2023-08-22T17:27:49.000Z",
+    "Product_ID": "f39522ea657041d6a1fcd8b37e9ce964",
+    "Product_Brand": "Chamex",
+    "Amount": 7,
+    "Unit_Cost": 210.96,
+    "Total": 1476.72,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "34c3051154d24edfa98bdfca07397002",
+    "User_ID": "321d61024a604e65b5c6673a77c6bb7a",
+    "Date": "2023-06-10T07:50:11.000Z",
+    "Product_ID": "bff3a3e5c2ac4a33a129bdf153c28e13",
+    "Product_Brand": "Pilot",
+    "Amount": 15,
+    "Unit_Cost": 2050.5,
+    "Total": 30757.5,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "6826c7eb2fcf4590967756fdc0e98237",
+    "User_ID": "13934f8e4b7444568cc37a995aa20957",
+    "Date": "2023-08-11T23:28:18.000Z",
+    "Product_ID": "26260d45352047bdadba3d137ad972c6",
+    "Product_Brand": "Positivo",
+    "Amount": 17,
+    "Unit_Cost": 2011.55,
+    "Total": 34196.35,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "e5453d57137c4d948f38414f822f05fc",
+    "User_ID": "bb84211b8305462aa8e254c5804650b4",
+    "Date": "2023-03-25T10:09:59.000Z",
+    "Product_ID": "f2447b1fcd744efcb89b490be7f05763",
+    "Product_Brand": "Compactor",
+    "Amount": 14,
+    "Unit_Cost": 415.44,
+    "Total": 5816.16,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "d9f11284ea5e42e2894e5e18a074b76f",
+    "User_ID": "4015cfb70e6a479dac0111f80b588209",
+    "Date": "2023-02-25T17:36:50.000Z",
+    "Product_ID": "7712800136fd484e898c095aaa548c17",
+    "Product_Brand": "Chamex",
+    "Amount": 22,
+    "Unit_Cost": 139.63,
+    "Total": 3071.86,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "52c50b59101a4ca583fae92ea791b5dd",
+    "User_ID": "1023e26aa5804967b97ecb47c246fc4b",
+    "Date": "2023-08-19T14:04:53.000Z",
+    "Product_ID": "31e3ab79f2594e1c90e9215ca25a7470",
+    "Product_Brand": "Bic",
+    "Amount": 20,
+    "Unit_Cost": 2434.3,
+    "Total": 48686.0,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "71b70f142f38454e83c414fa08b68a86",
+    "User_ID": "1bbcc50978cc41a9a29e9c4b6d77ce86",
+    "Date": "2023-02-02T23:44:19.000Z",
+    "Product_ID": "eab871ec63904cdbb8438ed00c3a37a8",
+    "Product_Brand": "Positivo",
+    "Amount": 22,
+    "Unit_Cost": 1660.66,
+    "Total": 36534.52,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "c6b9d3825ddb472985522c3af4d71698",
+    "User_ID": "a1c2160c6a7d4e9889727c673a633c74",
+    "Date": "2023-07-22T11:01:29.000Z",
+    "Product_ID": "4dd3a8d382c44dfdb4e26dceaf8a8d86",
+    "Product_Brand": "Chamex",
+    "Amount": 10,
+    "Unit_Cost": 2877.18,
+    "Total": 28771.8,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "bc40b0a402c64756b93f30789c8fcffd",
+    "User_ID": "67e7b69a48a64ec3ac148da3d9fc9994",
+    "Date": "2023-01-07T09:08:47.000Z",
+    "Product_ID": "f08cd322f86344739939429191321f59",
+    "Product_Brand": "Pilot",
+    "Amount": 16,
+    "Unit_Cost": 2139.19,
+    "Total": 34227.04,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "fb623a2836584dc08c3f191d0486f833",
+    "User_ID": "dd52463406334a999ea368b761a29b1e",
+    "Date": "2023-08-03T05:28:25.000Z",
+    "Product_ID": "ef4b39b8ba064b74af218a1100fe3ce5",
+    "Product_Brand": "Elgin",
+    "Amount": 28,
+    "Unit_Cost": 1369.85,
+    "Total": 38355.8,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "104cbdb0efc14957b074583d8a5f6749",
+    "User_ID": "125671d6571e4747bec8b0b04b87163c",
+    "Date": "2023-07-28T17:17:45.000Z",
+    "Product_ID": "2083fc13a969438c87d55b24282cfdb9",
+    "Product_Brand": "Kalunga",
+    "Amount": 27,
+    "Unit_Cost": 3092.13,
+    "Total": 83487.51,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "28a87c3e3c5f4b3dbf994363ad8936bc",
+    "User_ID": "c6023abf50004172b764803b1f227fe4",
+    "Date": "2023-04-05T02:11:09.000Z",
+    "Product_ID": "cda45d4725914f3c93e4d22157112858",
+    "Product_Brand": "Pilot",
+    "Amount": 13,
+    "Unit_Cost": 2390.32,
+    "Total": 31074.16,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "31b53b3bd7d0430983a51085222c3277",
+    "User_ID": "1199c2c4ffd94da1b7298831d1af5850",
+    "Date": "2023-03-09T09:00:09.000Z",
+    "Product_ID": "e07cf2743bd7471da4524f9d65b19b55",
+    "Product_Brand": "Kalunga",
+    "Amount": 16,
+    "Unit_Cost": 818.59,
+    "Total": 13097.44,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "8aaa0d81b03e4c17857605ac320b4999",
+    "User_ID": "ef22126738b541408202a0779530e376",
+    "Date": "2023-06-05T22:54:32.000Z",
+    "Product_ID": "9aece65596974e0ea8e877fe8731d338",
+    "Product_Brand": "Positivo",
+    "Amount": 19,
+    "Unit_Cost": 1293.96,
+    "Total": 24585.24,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "3840f65914044f1db9e2a196cb6e3092",
+    "User_ID": "7e1fecc8d2be494482426c753d31a749",
+    "Date": "2023-08-28T21:51:35.000Z",
+    "Product_ID": "83e1824bec25443b82c0b3cb123d7ecf",
+    "Product_Brand": "Kalunga",
+    "Amount": 2,
+    "Unit_Cost": 2367.51,
+    "Total": 4735.02,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "278d4489cb4d4c8192ff05412b04c53d",
+    "User_ID": "0b93fce1048d437c8832f8bef15d5c50",
+    "Date": "2023-08-21T12:03:12.000Z",
+    "Product_ID": "70eb455c0f42480793d4b61674b4954c",
+    "Product_Brand": "Bic",
+    "Amount": 4,
+    "Unit_Cost": 1397.93,
+    "Total": 5591.72,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "f367520ea6df4346bcec9acf908bd411",
+    "User_ID": "df7dc057c2764d11a2c5bee85c2e0e30",
+    "Date": "2023-06-20T01:06:00.000Z",
+    "Product_ID": "d321bd59c5d64c8eb7ff69925b006a76",
+    "Product_Brand": "Positivo",
+    "Amount": 4,
+    "Unit_Cost": 1543.59,
+    "Total": 6174.36,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "7961d1f78dec48038b0cb42f38719a65",
+    "User_ID": "8e94c8f6452647a0984f7717f85c4982",
+    "Date": "2023-01-03T06:39:24.000Z",
+    "Product_ID": "3f69ba58a04e4ab390d3e7db84f4dab8",
+    "Product_Brand": "Tilibra",
+    "Amount": 12,
+    "Unit_Cost": 1879.32,
+    "Total": 22551.84,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "080e3b04b95941af99bdf6319b3f6c7c",
+    "User_ID": "84dd13507ce540cca4397181a6f2a39e",
+    "Date": "2023-06-16T03:07:54.000Z",
+    "Product_ID": "182b41f1ab74493caea16b439a857eef",
+    "Product_Brand": "Compactor",
+    "Amount": 12,
+    "Unit_Cost": 884.77,
+    "Total": 10617.24,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "58574275c0c845b1bd28e2eb98b11ec0",
+    "User_ID": "a8f4148149d5461d8be393e279627315",
+    "Date": "2023-02-05T03:47:21.000Z",
+    "Product_ID": "472c5362252d4d57bf22e01642feca7e",
+    "Product_Brand": "Staedtler",
+    "Amount": 10,
+    "Unit_Cost": 1682.68,
+    "Total": 16826.8,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "029305dad4ae403fb4944faddefbdb33",
+    "User_ID": "11cd34b7825742b094ffd66b332da78c",
+    "Date": "2023-01-07T16:23:09.000Z",
+    "Product_ID": "4fdbfc4d3c75437987cf4ce4d085388b",
+    "Product_Brand": "Elgin",
+    "Amount": 6,
+    "Unit_Cost": 2901.42,
+    "Total": 17408.52,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "b286ff6f46724c108e507fe144d3895a",
+    "User_ID": "62aca2b58b0947ffa20598f49f11c159",
+    "Date": "2023-02-23T08:33:23.000Z",
+    "Product_ID": "a56bfc7394d049fa80bc55625dbcfe1d",
+    "Product_Brand": "Tilibra",
+    "Amount": 10,
+    "Unit_Cost": 2654.11,
+    "Total": 26541.1,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "6e27b23b1f184f359de38114297a3e7b",
+    "User_ID": "820f8fa174aa4506829afe90fab2c34c",
+    "Date": "2023-06-21T07:39:51.000Z",
+    "Product_ID": "61d7fde47d9a4ab983d22f995093cae8",
+    "Product_Brand": "Pilot",
+    "Amount": 18,
+    "Unit_Cost": 2702.35,
+    "Total": 48642.3,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "cf704e5be45d4ae1acbe13d44cb199f8",
+    "User_ID": "bf4c63d41664448fbffcd6f64db2ca7e",
+    "Date": "2023-04-07T16:31:22.000Z",
+    "Product_ID": "f4c2c73546ae46249d0e309f3fcd5791",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 24,
+    "Unit_Cost": 2864.62,
+    "Total": 68750.88,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "c75c891da8e7402aa4d7d5a1d9ad976c",
+    "User_ID": "8ccef6916ef64f7d9e65650b284e143a",
+    "Date": "2023-05-07T22:38:22.000Z",
+    "Product_ID": "17078a52180240dfafa642820ff33139",
+    "Product_Brand": "Compactor",
+    "Amount": 16,
+    "Unit_Cost": 2765.92,
+    "Total": 44254.72,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "ed686eb97ec24e67b60692ccd7151bda",
+    "User_ID": "659cd37d9617461c981ec6749781fbc0",
+    "Date": "2023-02-08T03:14:30.000Z",
+    "Product_ID": "64371c752d7549c8a196539bc39a379d",
+    "Product_Brand": "Pilot",
+    "Amount": 12,
+    "Unit_Cost": 3458.16,
+    "Total": 41497.92,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "d75cdcd587d44f8aa49970c0ce3d53b5",
+    "User_ID": "7c4d2d9ce763443c8cb389cb3ada4342",
+    "Date": "2023-01-16T20:22:51.000Z",
+    "Product_ID": "05a89a36b8ab4a708c22c8f0a3fa3e6d",
+    "Product_Brand": "Bic",
+    "Amount": 20,
+    "Unit_Cost": 717.3,
+    "Total": 14346.0,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "19a7a8d1c66a4d6ba419c292e5bd6616",
+    "User_ID": "88904cc646ad4bde81701013bda6c232",
+    "Date": "2023-04-16T05:27:50.000Z",
+    "Product_ID": "a8150182c16d4e70850a9ff4b55fa4e8",
+    "Product_Brand": "Chamex",
+    "Amount": 13,
+    "Unit_Cost": 421.86,
+    "Total": 5484.18,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "e59784b173c244d3a5181ff179cbc375",
+    "User_ID": "6ff6a13aaf994355ae2b68fb29dd0b18",
+    "Date": "2023-07-15T12:47:05.000Z",
+    "Product_ID": "74bd5ffd38b94008a0b22d5fc348a0a9",
+    "Product_Brand": "Tilibra",
+    "Amount": 24,
+    "Unit_Cost": 2803.38,
+    "Total": 67281.12,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "88fc876b7119449b827d703a8518bb3a",
+    "User_ID": "6b6f489faf3e48cab2d45201a2529b7b",
+    "Date": "2023-03-19T14:51:41.000Z",
+    "Product_ID": "45ebdd2f9478474f9c1322dadd4e4a6f",
+    "Product_Brand": "Tilibra",
+    "Amount": 1,
+    "Unit_Cost": 3475.91,
+    "Total": 3475.91,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "543a8622b9ca42878ce7af8f44c057ad",
+    "User_ID": "a93e4e6912364ab0abdfbb747a63bd62",
+    "Date": "2023-06-05T17:35:08.000Z",
+    "Product_ID": "8596fad082114335afbd5e672b49852e",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 16,
+    "Unit_Cost": 2893.22,
+    "Total": 46291.52,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "20ac3861196c4c2ea2520daa2b849bb1",
+    "User_ID": "4bc14a49744547c3b8b590704d802f78",
+    "Date": "2023-02-17T23:59:08.000Z",
+    "Product_ID": "bd01e96735964efe8f9c2f5e9f53bf45",
+    "Product_Brand": "Kalunga",
+    "Amount": 24,
+    "Unit_Cost": 2798.25,
+    "Total": 67158.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "77adebf43fc6438c83e7c74ad404e57b",
+    "User_ID": "9b119cc0efd84eacab3ff55052ad9ca7",
+    "Date": "2023-01-09T06:18:32.000Z",
+    "Product_ID": "6740faabbd2a4c35a213a3ddc24f302d",
+    "Product_Brand": "Pilot",
+    "Amount": 7,
+    "Unit_Cost": 2891.98,
+    "Total": 20243.86,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "a323c339788242cc987910398efacca6",
+    "User_ID": "c21e651c361f47e49737ee72846d8232",
+    "Date": "2023-07-27T04:03:58.000Z",
+    "Product_ID": "d05f56b2933e4ff79f5d2d8425a548c4",
+    "Product_Brand": "Chamex",
+    "Amount": 18,
+    "Unit_Cost": 1142.65,
+    "Total": 20567.7,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "0c042a3adb3b44d2bb762b1c9db79dd1",
+    "User_ID": "5ba869b84e9b4ea3a37f720fc2ed44d3",
+    "Date": "2023-07-27T16:08:34.000Z",
+    "Product_ID": "b6667cc99d5341b58cd37212d6a33ddc",
+    "Product_Brand": "Tilibra",
+    "Amount": 27,
+    "Unit_Cost": 2319.51,
+    "Total": 62626.77,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "a61b1580c5214fafb3586ee6eb141650",
+    "User_ID": "cfca48631bd449a190ed0cbe755d6113",
+    "Date": "2023-08-25T05:38:00.000Z",
+    "Product_ID": "68eb630a4c7948a49590ddbe0d946607",
+    "Product_Brand": "Tilibra",
+    "Amount": 28,
+    "Unit_Cost": 1788.14,
+    "Total": 50067.92,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "b4ef695cef934e4a81add09dcde27289",
+    "User_ID": "c8edab87551e4caaa89836167f4280be",
+    "Date": "2023-02-18T01:20:43.000Z",
+    "Product_ID": "f6e2a31ff0494c69a3dc9c033c9c7f41",
+    "Product_Brand": "Elgin",
+    "Amount": 20,
+    "Unit_Cost": 497.6,
+    "Total": 9952.0,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "d680fdcab1994ee298fd4d2b8314de1f",
+    "User_ID": "8cc3c2e72bbd43cf982d9ad9f2540a82",
+    "Date": "2023-02-18T01:15:12.000Z",
+    "Product_ID": "3be0cbc2f47e4eb9a24abc8d324da44b",
+    "Product_Brand": "Staedtler",
+    "Amount": 26,
+    "Unit_Cost": 1945.16,
+    "Total": 50574.16,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "e229c922cb73410a896e8438f75765ff",
+    "User_ID": "a31a31f7dd894cdf92f07782761c2e55",
+    "Date": "2023-08-18T00:48:57.000Z",
+    "Product_ID": "60f5e4cfd1914f8ab6d671a7c9ead25f",
+    "Product_Brand": "Bic",
+    "Amount": 17,
+    "Unit_Cost": 2703.48,
+    "Total": 45959.16,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "edf30743e73a41728871dd03e8859f61",
+    "User_ID": "be84f70adf5840ce877540d1bcb83c07",
+    "Date": "2023-04-23T08:28:32.000Z",
+    "Product_ID": "3e1544a9bd314a59b2dd4a00fedbd50a",
+    "Product_Brand": "Elgin",
+    "Amount": 17,
+    "Unit_Cost": 1141.33,
+    "Total": 19402.61,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "5ab96b406e804ff58568bbcf80d72073",
+    "User_ID": "68d1e144cfd14b9a83340e38ec3b699d",
+    "Date": "2023-05-18T06:53:28.000Z",
+    "Product_ID": "63b78ffecaf84df5ad9405ae15e35450",
+    "Product_Brand": "Tilibra",
+    "Amount": 8,
+    "Unit_Cost": 1778.36,
+    "Total": 14226.88,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "452a2f9fa37a4c8d9cbf3ca5a08d15f7",
+    "User_ID": "efe4a4a309f249efb394abc3fa6fa9cb",
+    "Date": "2023-06-03T21:15:27.000Z",
+    "Product_ID": "1bf3c3d650a240a0997fd685f7c667e2",
+    "Product_Brand": "Bic",
+    "Amount": 15,
+    "Unit_Cost": 427.87,
+    "Total": 6418.05,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "03b0808b684d48f9adae2c3b5b9b6c2f",
+    "User_ID": "ad35cd572ede4d1c9743c63494da806a",
+    "Date": "2023-02-25T04:45:41.000Z",
+    "Product_ID": "04df6f31450942d39f6c92de45012037",
+    "Product_Brand": "Chamex",
+    "Amount": 26,
+    "Unit_Cost": 2343.98,
+    "Total": 60943.48,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "628ffc8e5f5d48b68df911b0aa67134e",
+    "User_ID": "fdd16e481c4b4d08b519490e79eadae9",
+    "Date": "2023-08-08T23:06:25.000Z",
+    "Product_ID": "4d9539bc4bc64315bf4c14db2fed1897",
+    "Product_Brand": "Compactor",
+    "Amount": 5,
+    "Unit_Cost": 887.74,
+    "Total": 4438.7,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "d0ed45ec2fce4986a1316a883010f211",
+    "User_ID": "71e7373b04214a9e8d46cba2aa9f9e7e",
+    "Date": "2023-04-06T22:27:32.000Z",
+    "Product_ID": "3f96dbf64b084255986860e78b9125c5",
+    "Product_Brand": "Kalunga",
+    "Amount": 27,
+    "Unit_Cost": 3464.58,
+    "Total": 93543.66,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "a857f88d81814b87ba3b332d195b53dd",
+    "User_ID": "1e47b13ffacb43988eaa516bd30efca4",
+    "Date": "2023-06-03T23:23:01.000Z",
+    "Product_ID": "3a502b176b85425f8fed86af73379588",
+    "Product_Brand": "Chamex",
+    "Amount": 12,
+    "Unit_Cost": 1475.91,
+    "Total": 17710.92,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "8b8055fdf3634775b8b5674a184f8cbd",
+    "User_ID": "95ac297280f34469944dad359a43aab2",
+    "Date": "2023-01-13T10:33:39.000Z",
+    "Product_ID": "4fa689a0c6804d038503059f7aa60ad2",
+    "Product_Brand": "Staedtler",
+    "Amount": 23,
+    "Unit_Cost": 1606.7,
+    "Total": 36954.1,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "20e10b1741d848d3b769117d9435f34d",
+    "User_ID": "e07c64a7f52d4b71bce6e77e82a43ceb",
+    "Date": "2023-04-04T02:16:17.000Z",
+    "Product_ID": "d76954fb18804708ad6fb27b32271870",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 4,
+    "Unit_Cost": 3362.81,
+    "Total": 13451.24,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "cc274fb225984f509ca77b7e5ca80695",
+    "User_ID": "876849607bc1439885357ebc9de10424",
+    "Date": "2023-07-28T21:52:16.000Z",
+    "Product_ID": "b96460430a1946bc9f3ef42e419eda6f",
+    "Product_Brand": "Kalunga",
+    "Amount": 5,
+    "Unit_Cost": 948.39,
+    "Total": 4741.95,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "ed99873a868249c48a8b2d716e9b0256",
+    "User_ID": "420cf35e31524efb8581794d2c26acb1",
+    "Date": "2023-08-23T10:05:17.000Z",
+    "Product_ID": "3cd54a81a6fd4abb952bb03792468664",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 17,
+    "Unit_Cost": 1879.25,
+    "Total": 31947.25,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "39afb57a62b74a249de7f028444e51c6",
+    "User_ID": "dd71f5b8bc6f4c10ab898f9ac181f757",
+    "Date": "2023-02-09T00:40:05.000Z",
+    "Product_ID": "5df1c84ae7864a7da2a8a02e344c6fbd",
+    "Product_Brand": "Staedtler",
+    "Amount": 29,
+    "Unit_Cost": 643.75,
+    "Total": 18668.75,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "abce68a7d6ea4641aec0126e8ea71962",
+    "User_ID": "7353ff94080e4fc894b06741a2a63ac4",
+    "Date": "2023-02-09T03:29:00.000Z",
+    "Product_ID": "bd8480cd52e9485d894733defec6e8e4",
+    "Product_Brand": "Chamex",
+    "Amount": 8,
+    "Unit_Cost": 2129.6,
+    "Total": 17036.8,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "58fb924e33ac4c0ca1a248e152ec191f",
+    "User_ID": "4958fec572fe403db1fd4825d81a66cd",
+    "Date": "2023-05-20T04:02:33.000Z",
+    "Product_ID": "3a90020e1dfc4a61a1d9b01b500d8f59",
+    "Product_Brand": "Pilot",
+    "Amount": 30,
+    "Unit_Cost": 1463.62,
+    "Total": 43908.6,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "dc888af841cb44c8ae8b8091e8d81da6",
+    "User_ID": "a8e0e0afcf7041809f3456399972a234",
+    "Date": "2023-01-06T06:59:19.000Z",
+    "Product_ID": "cd192cab764241a3acb3cf712ddd4006",
+    "Product_Brand": "Staedtler",
+    "Amount": 9,
+    "Unit_Cost": 3392.32,
+    "Total": 30530.88,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "f7f565f9f7574ec0a4edc33a17b0e8a7",
+    "User_ID": "ec8f24ff1ff44e71a01bdabeeae89259",
+    "Date": "2023-08-17T21:11:17.000Z",
+    "Product_ID": "9e0d05f523224ab588306093aec1bc16",
+    "Product_Brand": "Chamex",
+    "Amount": 10,
+    "Unit_Cost": 2658.85,
+    "Total": 26588.5,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "43a7c9c0aeb64b57b0ced1d434ab7b1c",
+    "User_ID": "dd80c9b97c71401f84179ba6be6af88c",
+    "Date": "2023-01-01T23:32:35.000Z",
+    "Product_ID": "d667603f6bbf4c509939190abc44a89a",
+    "Product_Brand": "Pilot",
+    "Amount": 2,
+    "Unit_Cost": 3480.76,
+    "Total": 6961.52,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "a916f4afe8b94feb9fc19b06406c5c3d",
+    "User_ID": "ad8f57d92e244db58509b85d1d812926",
+    "Date": "2023-08-04T21:52:41.000Z",
+    "Product_ID": "ae02705fcc49451db4dd81f6adc5ddcf",
+    "Product_Brand": "Kalunga",
+    "Amount": 30,
+    "Unit_Cost": 1662.98,
+    "Total": 49889.4,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "70959515a0594cd59c50ede4fbd40c69",
+    "User_ID": "09232cba259443b4866727da807ee2af",
+    "Date": "2023-07-17T09:44:13.000Z",
+    "Product_ID": "557278a593e3478ba9c4aa171ee9ce39",
+    "Product_Brand": "Pilot",
+    "Amount": 27,
+    "Unit_Cost": 1733.77,
+    "Total": 46811.79,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "7bd792cdd2384591947cb9f135e34187",
+    "User_ID": "d17437a8ebd247289fc81848de05172f",
+    "Date": "2023-03-13T11:03:53.000Z",
+    "Product_ID": "e03325c6d5894967b6b2c335b294bbee",
+    "Product_Brand": "Tilibra",
+    "Amount": 29,
+    "Unit_Cost": 697.19,
+    "Total": 20218.51,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "90ecd1d743b44b7ab54d367c0f45eaf8",
+    "User_ID": "cb6845a0c5d9434da0210497c687bf46",
+    "Date": "2023-05-14T05:03:05.000Z",
+    "Product_ID": "82ce851c426c4851af98107d625e5891",
+    "Product_Brand": "Kalunga",
+    "Amount": 24,
+    "Unit_Cost": 249.85,
+    "Total": 5996.4,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "626e9d87c8d44178aa91ae8925a66329",
+    "User_ID": "df909cd1503f4e6fa2bba244ba37bae6",
+    "Date": "2023-04-23T09:02:29.000Z",
+    "Product_ID": "a2f8957cad194bbbb825c83467932755",
+    "Product_Brand": "Tilibra",
+    "Amount": 10,
+    "Unit_Cost": 2347.73,
+    "Total": 23477.3,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "5be16aa4629b4bf49b424a3815227efe",
+    "User_ID": "a2640b7dd8ef4f7fb67bb63bd7327d41",
+    "Date": "2023-05-12T10:35:20.000Z",
+    "Product_ID": "486040893d384ba780bf1f52d722395f",
+    "Product_Brand": "Pilot",
+    "Amount": 1,
+    "Unit_Cost": 943.46,
+    "Total": 943.46,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "a8719d86cc1041948fc2650661ad8b9d",
+    "User_ID": "1b7b3638951b4dd59b6b272bb44059c1",
+    "Date": "2023-04-12T05:00:21.000Z",
+    "Product_ID": "a19c1c1b7390406bbbf60a5766a49bbe",
+    "Product_Brand": "Kalunga",
+    "Amount": 10,
+    "Unit_Cost": 3379.92,
+    "Total": 33799.2,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "f5885997518641abbfc8c1b18d702677",
+    "User_ID": "e47e8f3dbfd34b25982d756fe1cb571d",
+    "Date": "2023-04-08T16:49:00.000Z",
+    "Product_ID": "6a005ae3a895442e852197fd36e4f64c",
+    "Product_Brand": "Bic",
+    "Amount": 17,
+    "Unit_Cost": 1662.57,
+    "Total": 28263.69,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "037236392b97481994d5f370ecc6568b",
+    "User_ID": "45a210d681404d53b8ac6e47cce7c344",
+    "Date": "2023-07-19T01:25:01.000Z",
+    "Product_ID": "367f7cbed9a64b878750d60d806c2e85",
+    "Product_Brand": "Staedtler",
+    "Amount": 5,
+    "Unit_Cost": 2860.11,
+    "Total": 14300.55,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "53b5d4bcbb834cec9702aab33b2a84ed",
+    "User_ID": "636c67cfb30e43cab732b9484510f17f",
+    "Date": "2023-03-22T22:50:56.000Z",
+    "Product_ID": "5abf3648506946c29d21e73a900f3193",
+    "Product_Brand": "Positivo",
+    "Amount": 3,
+    "Unit_Cost": 2204.77,
+    "Total": 6614.31,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "01de9bde2b554c3c95077de2d1c46ffc",
+    "User_ID": "60846784113f4299a7e924c25bc5b505",
+    "Date": "2023-08-05T09:46:39.000Z",
+    "Product_ID": "94d5f68a38654247b54b3d85064f6a48",
+    "Product_Brand": "Tilibra",
+    "Amount": 24,
+    "Unit_Cost": 2675.68,
+    "Total": 64216.32,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "c7f0deb4c1a14d8180052a640ec71f9d",
+    "User_ID": "c2b506fd9da34280882363432dff88a5",
+    "Date": "2023-07-24T22:51:32.000Z",
+    "Product_ID": "cd5344d07dca4e10a08693501a81d451",
+    "Product_Brand": "Tilibra",
+    "Amount": 23,
+    "Unit_Cost": 2887.44,
+    "Total": 66411.12,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "95aa7c23535f4d1ba0080b01966ddf9d",
+    "User_ID": "a478496f22b04c2080240716ed3d3956",
+    "Date": "2023-01-27T21:37:51.000Z",
+    "Product_ID": "57f9410d5b4f43b7aa7442cee500766a",
+    "Product_Brand": "Pilot",
+    "Amount": 19,
+    "Unit_Cost": 2635.65,
+    "Total": 50077.35,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "1970264b845b4cfb802205b39f6f2eb0",
+    "User_ID": "decdb4d405e5413b9b7762a11a076bfb",
+    "Date": "2023-06-04T12:53:28.000Z",
+    "Product_ID": "3a54d26f506341648f22a1a4bfc0de3e",
+    "Product_Brand": "Elgin",
+    "Amount": 5,
+    "Unit_Cost": 111.48,
+    "Total": 557.4,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "5e01cefbe3e24b098f9d1f51703ae3b0",
+    "User_ID": "f9b16602da4c448d8fa3d6fa22f1b401",
+    "Date": "2023-04-16T08:00:29.000Z",
+    "Product_ID": "74968252eed04c6ca70270520ad61872",
+    "Product_Brand": "Bic",
+    "Amount": 21,
+    "Unit_Cost": 2198.12,
+    "Total": 46160.52,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "fcd3bf060f224cc3936a28af0f3422c4",
+    "User_ID": "3db4b316c0e44c4ebc16d2cff9dc9c0d",
+    "Date": "2023-02-22T16:04:47.000Z",
+    "Product_ID": "d23e4715bcc34b8989e5a43d17febe64",
+    "Product_Brand": "Compactor",
+    "Amount": 29,
+    "Unit_Cost": 3263.94,
+    "Total": 94654.26,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "3928152db15f4cd2a3b1d406254350d8",
+    "User_ID": "34cecede8d7e477a94dacb4cd4d6b5ed",
+    "Date": "2023-05-08T23:48:13.000Z",
+    "Product_ID": "0fec32e27dd34f00b4ff5f42a133564a",
+    "Product_Brand": "Pilot",
+    "Amount": 28,
+    "Unit_Cost": 2832.74,
+    "Total": 79316.72,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "1e1012543bf84237ae4fb9229dff72dc",
+    "User_ID": "5b83b2d1f53743728ffb1a03dbaed89d",
+    "Date": "2023-08-28T12:04:30.000Z",
+    "Product_ID": "31046f2c2f4c4a04b1298c9bcbebc4e8",
+    "Product_Brand": "Staedtler",
+    "Amount": 15,
+    "Unit_Cost": 2275.64,
+    "Total": 34134.6,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "e73497f74f1d491f98b23261e9ed48c3",
+    "User_ID": "48efabc373fb4564a5f7199abf2e4f9a",
+    "Date": "2023-04-03T19:09:21.000Z",
+    "Product_ID": "676b32b09d3c43579cb4e791d726b989",
+    "Product_Brand": "Staedtler",
+    "Amount": 21,
+    "Unit_Cost": 2160.37,
+    "Total": 45367.77,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "0c54c35415ce4e81b0085c0a3a978d79",
+    "User_ID": "f9f39e48daa94f23a3224c2b85d4edbc",
+    "Date": "2023-03-01T15:03:31.000Z",
+    "Product_ID": "e5137b9c58aa4b2c9e7bccb3f0bad4f6",
+    "Product_Brand": "Staedtler",
+    "Amount": 10,
+    "Unit_Cost": 2601.9,
+    "Total": 26019.0,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "eaaa2d0211e948ec81e231a310f54e0c",
+    "User_ID": "e8ace63711f143f69484549b01dd69da",
+    "Date": "2023-08-10T22:33:18.000Z",
+    "Product_ID": "fd8c352b2a1a4cbf89b2086aeea3c7e5",
+    "Product_Brand": "Compactor",
+    "Amount": 7,
+    "Unit_Cost": 350.57,
+    "Total": 2453.99,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "87db3ff7977042fab2352f03bfb4e9ae",
+    "User_ID": "7c8a2061153c4bf2b51afb0be38ba0fb",
+    "Date": "2023-04-10T02:59:30.000Z",
+    "Product_ID": "1b0f5452b8c34cc181fc67a23e21d083",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 4,
+    "Unit_Cost": 1633.52,
+    "Total": 6534.08,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "0c874b09a9414796aaf79cd2c696d360",
+    "User_ID": "379ff825500c4bacb5f705dc8fbac4a8",
+    "Date": "2023-08-09T12:13:58.000Z",
+    "Product_ID": "5430fe80e5864559a48b09ce90736df7",
+    "Product_Brand": "Pilot",
+    "Amount": 27,
+    "Unit_Cost": 1607.75,
+    "Total": 43409.25,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "0552365e619f48c4911ce41df5ef170e",
+    "User_ID": "0bcb8f4e6e434333b90db9a82c8e6b63",
+    "Date": "2023-05-12T04:38:52.000Z",
+    "Product_ID": "38ab21b7a56d40a990a09fcbd35a3d3a",
+    "Product_Brand": "Elgin",
+    "Amount": 5,
+    "Unit_Cost": 2036.2,
+    "Total": 10181.0,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "91ba8c71612a4d78a10136368f7e8ff8",
+    "User_ID": "2af303b351584a218fc1d9ca0f035749",
+    "Date": "2023-06-08T15:57:56.000Z",
+    "Product_ID": "7b9625fbe5664b1395f6097ae464b0bb",
+    "Product_Brand": "Compactor",
+    "Amount": 23,
+    "Unit_Cost": 3104.3,
+    "Total": 71398.9,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "912480d97c1c4f9189709b8ee99f871c",
+    "User_ID": "30335a9dde9543238e7cff8c5d7cf2a5",
+    "Date": "2023-08-22T14:25:19.000Z",
+    "Product_ID": "a78b4e9a91944db0a871dd1f4ad365b2",
+    "Product_Brand": "Tilibra",
+    "Amount": 1,
+    "Unit_Cost": 89.36,
+    "Total": 89.36,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "3a8129da8cdf41a4baaa4d64295c15d3",
+    "User_ID": "5c56ed718cec4ed0b5cfe4ea98f1787c",
+    "Date": "2023-02-27T10:00:20.000Z",
+    "Product_ID": "addceacc6cea45958e90b657bd6cee50",
+    "Product_Brand": "Chamex",
+    "Amount": 11,
+    "Unit_Cost": 1205.5,
+    "Total": 13260.5,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "c5f9b45e04764522bc1f445e9fcade44",
+    "User_ID": "f1ee98b4c72f4bd48a665335bfdf46d5",
+    "Date": "2023-04-23T00:57:47.000Z",
+    "Product_ID": "389555e7cc8d4262ab49935625db0425",
+    "Product_Brand": "Staedtler",
+    "Amount": 30,
+    "Unit_Cost": 422.34,
+    "Total": 12670.2,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "6955d7feed8d4440bd6aac4b90ed609c",
+    "User_ID": "a314b786c13b4d478a639beefcce717a",
+    "Date": "2023-07-28T18:04:23.000Z",
+    "Product_ID": "71f19896f47a40ec8b63ccf8bdef2350",
+    "Product_Brand": "Kalunga",
+    "Amount": 13,
+    "Unit_Cost": 1304.35,
+    "Total": 16956.55,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "66774ef3a0c64b4eb22e8ef32af0e68d",
+    "User_ID": "8e009995f2644d578532cc5ea7e533c2",
+    "Date": "2023-02-02T21:18:40.000Z",
+    "Product_ID": "9343644ebd0047a1aba2e800c900a14c",
+    "Product_Brand": "Tilibra",
+    "Amount": 9,
+    "Unit_Cost": 2990.26,
+    "Total": 26912.34,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "4259612deb884f5da3c6630275fa477f",
+    "User_ID": "e02cc177b5ea4d57ba0e4dc4b04e8c56",
+    "Date": "2023-06-07T11:50:27.000Z",
+    "Product_ID": "c9c619e061dd486482347d93845ee525",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 14,
+    "Unit_Cost": 3398.71,
+    "Total": 47581.94,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "be211244e23d43f1ad2c3c1f90a3c6f8",
+    "User_ID": "37a25253bde44b109b824b9f8828d55c",
+    "Date": "2023-04-24T02:03:59.000Z",
+    "Product_ID": "76bea733bbfc4c4eb2cc1f9a9d1f2cfa",
+    "Product_Brand": "Kalunga",
+    "Amount": 29,
+    "Unit_Cost": 1401.65,
+    "Total": 40647.85,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "40147492daa547c3918f50ee50679beb",
+    "User_ID": "0fab546f94db4339923baef096dfb82b",
+    "Date": "2023-05-16T01:58:59.000Z",
+    "Product_ID": "8fefe120db7548b799d1dbb647c59e83",
+    "Product_Brand": "Elgin",
+    "Amount": 5,
+    "Unit_Cost": 2153.16,
+    "Total": 10765.8,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "73d0a5f442b64bdfbcfa515908dcb1e3",
+    "User_ID": "3901a64b50ab43dcbdd70f8da9a22c0e",
+    "Date": "2023-06-10T09:16:47.000Z",
+    "Product_ID": "9096f03c52ae47adb74b257f40d195c9",
+    "Product_Brand": "Staedtler",
+    "Amount": 14,
+    "Unit_Cost": 599.74,
+    "Total": 8396.36,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "c9e4da3ae655495b9fc1f67105a92fe0",
+    "User_ID": "c646d1e486ea4072b9e9222e3bc76215",
+    "Date": "2023-08-18T21:25:07.000Z",
+    "Product_ID": "03b3ea855b384191b504874a2c1a472b",
+    "Product_Brand": "Tilibra",
+    "Amount": 10,
+    "Unit_Cost": 2296.84,
+    "Total": 22968.4,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "6c3b152383a24edf889c346cab96003a",
+    "User_ID": "8f1424b08ca74f3bba3d05c98930a953",
+    "Date": "2023-08-18T07:28:58.000Z",
+    "Product_ID": "897b7e42d6a842ab843564b52629f2b3",
+    "Product_Brand": "Chamex",
+    "Amount": 7,
+    "Unit_Cost": 567.9,
+    "Total": 3975.3,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "786cb8257ae94478af36919674a0823a",
+    "User_ID": "075b830deed7490daac9312df46e40be",
+    "Date": "2023-04-08T02:11:21.000Z",
+    "Product_ID": "b24c815bcc7446909e251502150a147c",
+    "Product_Brand": "Elgin",
+    "Amount": 18,
+    "Unit_Cost": 1497.41,
+    "Total": 26953.38,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "8e6593cc8eb94e9cad851dddb5f0b72f",
+    "User_ID": "cf908ef6a25d4a75ae10cb6f42cb678f",
+    "Date": "2023-05-26T18:12:56.000Z",
+    "Product_ID": "d56aa0f8d2ca4502beb3636f92dee92c",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 12,
+    "Unit_Cost": 1119.21,
+    "Total": 13430.52,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "2d79ffef6c924be9944ae5cd83d9adb5",
+    "User_ID": "e7f7d84457864ff796feb0b5f7056ffc",
+    "Date": "2023-07-24T16:13:24.000Z",
+    "Product_ID": "f15f89bc2acb4b9381c66f00309a2656",
+    "Product_Brand": "Staedtler",
+    "Amount": 13,
+    "Unit_Cost": 3047.48,
+    "Total": 39617.24,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "08888fa144394ff8a0b73541d2785de0",
+    "User_ID": "c535e600a1fc4db0a34ddb42ab4865eb",
+    "Date": "2023-05-19T11:08:43.000Z",
+    "Product_ID": "09ae5f075af54dcaba47ad285061dad4",
+    "Product_Brand": "Elgin",
+    "Amount": 16,
+    "Unit_Cost": 2633.01,
+    "Total": 42128.16,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "5160e0dd02bd4e509971024511887107",
+    "User_ID": "e9377a1edbb449368337b245828319ac",
+    "Date": "2023-04-03T08:57:15.000Z",
+    "Product_ID": "792b2a3ddeda4ff5bcc9da12fc9c6bc0",
+    "Product_Brand": "Kalunga",
+    "Amount": 28,
+    "Unit_Cost": 2204.62,
+    "Total": 61729.36,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "2d47b19b4b7642c288659493e16af699",
+    "User_ID": "bc065eda6ae14160a369851020fc455c",
+    "Date": "2023-05-28T00:08:02.000Z",
+    "Product_ID": "e68c9c8842424af9941b5a4b28025684",
+    "Product_Brand": "Kalunga",
+    "Amount": 14,
+    "Unit_Cost": 2261.16,
+    "Total": 31656.24,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "e432095a7c314257b09e1ac2b3e401fc",
+    "User_ID": "36977f0e87a946aeb62639cc24f24b5c",
+    "Date": "2023-08-19T15:00:04.000Z",
+    "Product_ID": "d94ca4019f154fb8b2bd984f3d95fe45",
+    "Product_Brand": "Kalunga",
+    "Amount": 26,
+    "Unit_Cost": 2673.51,
+    "Total": 69511.26,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "caf47402b4f048dd9b5e717997625391",
+    "User_ID": "e28b6202015d4a958800f8d3ad7384fb",
+    "Date": "2023-04-26T03:14:09.000Z",
+    "Product_ID": "a09facd3b4ec451b808cdf53c4d55a40",
+    "Product_Brand": "Tilibra",
+    "Amount": 15,
+    "Unit_Cost": 2994.48,
+    "Total": 44917.2,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "37705cfc080248a283570aa03434ee91",
+    "User_ID": "8aaac01a35624a42a875f5dc9f718e77",
+    "Date": "2023-08-03T17:49:02.000Z",
+    "Product_ID": "8f810ba201d041e188280440c6a32216",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 4,
+    "Unit_Cost": 3401.68,
+    "Total": 13606.72,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "4a3a88c4c8a7491cb432345b9e0b0061",
+    "User_ID": "2c5e0c0156dc4c8497c8956329c025b2",
+    "Date": "2023-01-21T22:19:08.000Z",
+    "Product_ID": "0f19e60b3e764bc2899e3257fc2144ce",
+    "Product_Brand": "Staedtler",
+    "Amount": 30,
+    "Unit_Cost": 815.94,
+    "Total": 24478.2,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "a29151438697414195984e1970cd2ab3",
+    "User_ID": "05e6951a62404725973286140dd1012d",
+    "Date": "2023-02-04T02:19:33.000Z",
+    "Product_ID": "d372c6a59d80423b89d94fc00cc686b7",
+    "Product_Brand": "Positivo",
+    "Amount": 23,
+    "Unit_Cost": 2227.93,
+    "Total": 51242.39,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "3217d4ee9101482089fa14b0852b9b2a",
+    "User_ID": "8c2f701c66484ed08fdacbeb8bd19001",
+    "Date": "2023-01-01T17:19:29.000Z",
+    "Product_ID": "f01e515b56e0430d8b0547112e9fe9c0",
+    "Product_Brand": "Staedtler",
+    "Amount": 8,
+    "Unit_Cost": 1359.82,
+    "Total": 10878.56,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "5e8066a58ae04d01bce80a28105e5337",
+    "User_ID": "599666380164472c820fa5921b587f8b",
+    "Date": "2023-04-16T16:15:35.000Z",
+    "Product_ID": "8e557e72350142979073f6bf537f4e9a",
+    "Product_Brand": "Pilot",
+    "Amount": 29,
+    "Unit_Cost": 2256.9,
+    "Total": 65450.1,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "1549433404af4b6da7e1a19a0234f706",
+    "User_ID": "cde8f700fde847528627fea413684c3b",
+    "Date": "2023-05-02T00:12:31.000Z",
+    "Product_ID": "84aa658744b948b58a7dca00a8cf98db",
+    "Product_Brand": "Kalunga",
+    "Amount": 23,
+    "Unit_Cost": 3362.25,
+    "Total": 77331.75,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "9feacb7dbbf94eddb6e8ace76fb7b0d1",
+    "User_ID": "bedc9206d16b42eea75eb92f8b777b89",
+    "Date": "2023-07-12T07:31:02.000Z",
+    "Product_ID": "5858f9d392f04028826b7e32d65e907d",
+    "Product_Brand": "Chamex",
+    "Amount": 22,
+    "Unit_Cost": 902.25,
+    "Total": 19849.5,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "c267f47f710a48ea853437153e44b681",
+    "User_ID": "2ee496e29cf64292a343e83445c77b57",
+    "Date": "2023-07-07T00:51:18.000Z",
+    "Product_ID": "08ea0e93000a47f0900e8cab83348153",
+    "Product_Brand": "Elgin",
+    "Amount": 22,
+    "Unit_Cost": 1473.4,
+    "Total": 32414.8,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "45d260e6498d4bb2b9b06295106eed55",
+    "User_ID": "984e35aa002847ebacfe6565dde73b32",
+    "Date": "2023-05-25T06:14:29.000Z",
+    "Product_ID": "84c4b36e93eb4c56b19aae1a1da8617f",
+    "Product_Brand": "Pilot",
+    "Amount": 7,
+    "Unit_Cost": 720.25,
+    "Total": 5041.75,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "073fa9f312b349458c008589ee9634b0",
+    "User_ID": "a26dc393ae8a4269bd4dc757046d5da5",
+    "Date": "2023-02-20T15:39:11.000Z",
+    "Product_ID": "2978694447604c42be40582d1d1207ad",
+    "Product_Brand": "Pilot",
+    "Amount": 10,
+    "Unit_Cost": 2662.25,
+    "Total": 26622.5,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "d896bb25dbe246c49f74b5536261d6aa",
+    "User_ID": "cf8f62dcb19b4131afda85ea086e3f26",
+    "Date": "2023-01-20T04:59:25.000Z",
+    "Product_ID": "4cfcfab6fdc44416948e8cf61c287746",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 22,
+    "Unit_Cost": 1461.06,
+    "Total": 32143.32,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "d1e09cf2f6004d21bb7b86fc87768b6f",
+    "User_ID": "98ed4e55d4294bc8aeb915cb3ff1a2c3",
+    "Date": "2023-03-14T01:45:03.000Z",
+    "Product_ID": "6a5648543b1f44c9a5539b3604a57884",
+    "Product_Brand": "Tilibra",
+    "Amount": 20,
+    "Unit_Cost": 85.14,
+    "Total": 1702.8,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "3c39daced80149c4a1ee5890a8250b1b",
+    "User_ID": "a2b341005f4f4a719c0b1cbf3b91cbda",
+    "Date": "2023-06-24T03:05:59.000Z",
+    "Product_ID": "5813dbf522f046a9a9fd14d8004703d4",
+    "Product_Brand": "Tilibra",
+    "Amount": 23,
+    "Unit_Cost": 1575.12,
+    "Total": 36227.76,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "fb39fde661c94b3caf4a8f10fffbf16f",
+    "User_ID": "d96f2fe4112f4f2c93076f9d5de4d479",
+    "Date": "2023-08-02T09:42:46.000Z",
+    "Product_ID": "4d53acdfb6dd48c2a8091db58985c209",
+    "Product_Brand": "Kalunga",
+    "Amount": 21,
+    "Unit_Cost": 669.42,
+    "Total": 14057.82,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "156a85d1dc2c49b8be6bb65095151640",
+    "User_ID": "de84a960e8674b2fbf714dd2b94b11fb",
+    "Date": "2023-03-04T00:05:17.000Z",
+    "Product_ID": "0d1909d2fc324159a67184b96aabca36",
+    "Product_Brand": "Bic",
+    "Amount": 15,
+    "Unit_Cost": 3447.48,
+    "Total": 51712.2,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "85222bb156c745ba90ca389f45ada628",
+    "User_ID": "ef1db2bdf9cf4881a8fcb3d9527a5570",
+    "Date": "2023-02-18T06:24:22.000Z",
+    "Product_ID": "b6c0416a8fea4b68b3af68c407d2a998",
+    "Product_Brand": "Staedtler",
+    "Amount": 29,
+    "Unit_Cost": 1472.09,
+    "Total": 42690.61,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "8ca84643b65342a4b3c9cf19af66ec9f",
+    "User_ID": "ec571f457de74117b2077cadecd1d4b8",
+    "Date": "2023-08-07T11:34:58.000Z",
+    "Product_ID": "9dab4339a7094be1865ee8e2cec11624",
+    "Product_Brand": "Compactor",
+    "Amount": 23,
+    "Unit_Cost": 309.44,
+    "Total": 7117.12,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "2f9cad3244bd40788fecdcd64e5bb88e",
+    "User_ID": "a14cec1170874a46b337616cf1b99e66",
+    "Date": "2023-08-01T20:26:15.000Z",
+    "Product_ID": "d8eb8fd0bafa4511aa983996a62293e6",
+    "Product_Brand": "Kalunga",
+    "Amount": 24,
+    "Unit_Cost": 1133.27,
+    "Total": 27198.48,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "1bbe1bacdfe94ead9a8a5aaae0b90f6f",
+    "User_ID": "407a6b33758f4193aa96f42842002b3e",
+    "Date": "2023-02-26T01:16:12.000Z",
+    "Product_ID": "e38e3c73f65845c3a2a8e1f43bbb42f9",
+    "Product_Brand": "Bic",
+    "Amount": 15,
+    "Unit_Cost": 1316.05,
+    "Total": 19740.75,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "9be9d9a85e9b4e2180efb58f94a83b94",
+    "User_ID": "4677e8de01094ceea6556152b878b4e4",
+    "Date": "2023-06-20T01:16:47.000Z",
+    "Product_ID": "d0a3f41635404e60a651fa03b1805fc4",
+    "Product_Brand": "Chamex",
+    "Amount": 9,
+    "Unit_Cost": 1188.4,
+    "Total": 10695.6,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "0c1b7916b3fc4aae93e689e143dcb1f7",
+    "User_ID": "d494eeed77d8442a9bd9e1ea4178c078",
+    "Date": "2023-02-01T07:06:30.000Z",
+    "Product_ID": "fe67be47833a4fda95a90f5946ac0bfc",
+    "Product_Brand": "Compactor",
+    "Amount": 24,
+    "Unit_Cost": 1042.68,
+    "Total": 25024.32,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "a9261e6f14c14f1eb2e3abe79bf90d6d",
+    "User_ID": "83d90481ce9f47858eb556be36d290dd",
+    "Date": "2023-07-27T15:08:59.000Z",
+    "Product_ID": "6c76c651f4e74724bfca84a81a62591b",
+    "Product_Brand": "Compactor",
+    "Amount": 30,
+    "Unit_Cost": 2764.82,
+    "Total": 82944.6,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "c58df9362f6e4b10bfff588191843bc5",
+    "User_ID": "083dbbb0882942c0bdba5bd873c60c22",
+    "Date": "2023-05-27T22:49:09.000Z",
+    "Product_ID": "2dc8ad7ceaae47e8ab87b0ed37aec413",
+    "Product_Brand": "Positivo",
+    "Amount": 30,
+    "Unit_Cost": 32.95,
+    "Total": 988.5,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "8bcac4dc9f3d47a2be9ee72f6bc69834",
+    "User_ID": "5d9a84e3a7b1425ea5b28043341d41e3",
+    "Date": "2023-08-12T19:05:32.000Z",
+    "Product_ID": "b78e71e257e1462d8daefbf0ce5e6ada",
+    "Product_Brand": "Pilot",
+    "Amount": 11,
+    "Unit_Cost": 1148.98,
+    "Total": 12638.78,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "56f457e2c9e94db5adaa59770dc0b29f",
+    "User_ID": "61207acee7d040f98e3f277c8d14ba59",
+    "Date": "2023-07-03T20:02:30.000Z",
+    "Product_ID": "a391e73f27c5458a94865ac347b36e48",
+    "Product_Brand": "Elgin",
+    "Amount": 8,
+    "Unit_Cost": 2635.72,
+    "Total": 21085.76,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "bf786673d7c841f8bbedc8072ae9a7b5",
+    "User_ID": "6a2ec21c27034be0bf3143e02bc45b0f",
+    "Date": "2023-02-03T08:39:05.000Z",
+    "Product_ID": "1799885676704aff95d1a6e788c374f4",
+    "Product_Brand": "Pilot",
+    "Amount": 14,
+    "Unit_Cost": 1141.84,
+    "Total": 15985.76,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "8e640ccf03dd4a8a9db5e394bad03c8e",
+    "User_ID": "67467c114b71481a82eae3ea8778cedd",
+    "Date": "2023-08-06T07:08:26.000Z",
+    "Product_ID": "5d7f4b8486ff4cb6921f9218fde0b419",
+    "Product_Brand": "Compactor",
+    "Amount": 23,
+    "Unit_Cost": 1475.16,
+    "Total": 33928.68,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "302db2963a1e4c40a73a3eb1004cf146",
+    "User_ID": "cde436b886ea41e987f6157cd42c1ab6",
+    "Date": "2023-02-25T09:18:17.000Z",
+    "Product_ID": "3eb1f1f7ae1b45018b0e2ba4670e2833",
+    "Product_Brand": "Positivo",
+    "Amount": 8,
+    "Unit_Cost": 3119.69,
+    "Total": 24957.52,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "9d1ac66c89174073b2e7deec48dcc2fe",
+    "User_ID": "f27ceb737b3746899ba6f333b51bc741",
+    "Date": "2023-05-07T14:15:11.000Z",
+    "Product_ID": "16bec57b00174464876ed5b0dfd589ae",
+    "Product_Brand": "Pilot",
+    "Amount": 24,
+    "Unit_Cost": 1306.97,
+    "Total": 31367.28,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "91c05e86a6d44412b751d446ae338949",
+    "User_ID": "ba1c0da33fd94d10a676c91b62bfd4bc",
+    "Date": "2023-04-11T02:25:16.000Z",
+    "Product_ID": "3cc19e85e6654779822f301a3f24f31d",
+    "Product_Brand": "Pilot",
+    "Amount": 29,
+    "Unit_Cost": 538.74,
+    "Total": 15623.46,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "ba6b27fbf1af46f6ac75c4b797cb5335",
+    "User_ID": "b756a69b3ae24b07846d36e57858a875",
+    "Date": "2023-02-21T14:02:06.000Z",
+    "Product_ID": "a116f0a5502f459e8417165bdbf21147",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 21,
+    "Unit_Cost": 1843.26,
+    "Total": 38708.46,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "cadca206ff7b4354ac3c3fa0a937c8be",
+    "User_ID": "374b8ba5d02c42bfb2ca8ed097ac0d26",
+    "Date": "2023-08-12T01:56:18.000Z",
+    "Product_ID": "0c93b95e09c74bac953db6e85e1f8f21",
+    "Product_Brand": "Pilot",
+    "Amount": 8,
+    "Unit_Cost": 3090.18,
+    "Total": 24721.44,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "9c187cd7ae6e40a6abf7808c8a124dc4",
+    "User_ID": "37269868c7c64e30a746214de4bd2925",
+    "Date": "2023-04-03T11:32:55.000Z",
+    "Product_ID": "8eb058cd822a428eb72d38843d6b8b0e",
+    "Product_Brand": "Tilibra",
+    "Amount": 20,
+    "Unit_Cost": 178.74,
+    "Total": 3574.8,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "d1b0f0d1bfcc460a99878e5df14e7f36",
+    "User_ID": "40f9e528e7dc4463ba63ab6512369f98",
+    "Date": "2023-01-04T20:38:45.000Z",
+    "Product_ID": "c942952f4f424d92b9a9777c48bf23e0",
+    "Product_Brand": "Positivo",
+    "Amount": 25,
+    "Unit_Cost": 2111.64,
+    "Total": 52791.0,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "bafa5a2e58fa431985a4711306cce3ec",
+    "User_ID": "5944ab4badf1414393037fbae875d9f3",
+    "Date": "2023-06-05T01:13:16.000Z",
+    "Product_ID": "ced87092fba84028bfa48f2b182adbae",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 12,
+    "Unit_Cost": 763.71,
+    "Total": 9164.52,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "c2c9fa22a54e4599a3b29280a22cb3f9",
+    "User_ID": "0a4c6bf12f5a473c8bb5e9d4fc51f3c7",
+    "Date": "2023-04-27T00:52:20.000Z",
+    "Product_ID": "93997c868a5b4951a390d108df6d15be",
+    "Product_Brand": "Kalunga",
+    "Amount": 30,
+    "Unit_Cost": 2563.47,
+    "Total": 76904.1,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "d3308e083ccc4799a154cde4447b8e54",
+    "User_ID": "6adfa2b03c9a43a2bfb41185b3d2df15",
+    "Date": "2023-05-03T06:02:50.000Z",
+    "Product_ID": "77041964c8084f32b2a8c79efa99bc0a",
+    "Product_Brand": "Compactor",
+    "Amount": 20,
+    "Unit_Cost": 1302.9,
+    "Total": 26058.0,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "85070fd598cb45f59d03c596302fb1a6",
+    "User_ID": "265b293381ba455b851edba1b51f175f",
+    "Date": "2023-02-26T12:42:35.000Z",
+    "Product_ID": "a55337b376f5460b8165618b004a4a5e",
+    "Product_Brand": "Tilibra",
+    "Amount": 14,
+    "Unit_Cost": 1693.57,
+    "Total": 23709.98,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "f0cb70b60f8641f4a3d0a0f9dcaf60c7",
+    "User_ID": "f0cfef199d234afdafb2fb01928dde3c",
+    "Date": "2023-03-13T22:17:26.000Z",
+    "Product_ID": "feec2ccb117f46478e4a27ac98abd7af",
+    "Product_Brand": "Staedtler",
+    "Amount": 21,
+    "Unit_Cost": 1870.16,
+    "Total": 39273.36,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "0d4e58e77ec644b78e2d574993fadea4",
+    "User_ID": "e3d0068423cf4c7ca09d7d4458b00655",
+    "Date": "2023-05-24T18:56:22.000Z",
+    "Product_ID": "ecad91c029934e1cac7b6a15144498e0",
+    "Product_Brand": "Kalunga",
+    "Amount": 2,
+    "Unit_Cost": 1078.32,
+    "Total": 2156.64,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "7917394ba99441c2a25463f453552376",
+    "User_ID": "f6c888d5bf424cb58cd9f25a5f4c4ed8",
+    "Date": "2023-06-21T06:25:46.000Z",
+    "Product_ID": "50667cc5ef9b4662b1755bbb00edd2fb",
+    "Product_Brand": "Kalunga",
+    "Amount": 25,
+    "Unit_Cost": 66.2,
+    "Total": 1655.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "181ffd1f98b741bdaadbafed968870e0",
+    "User_ID": "be1f864e61a04735bdf72a65bcc53a45",
+    "Date": "2023-03-14T03:52:05.000Z",
+    "Product_ID": "cb360f7e02a7429b9d0b3dc5a1964b25",
+    "Product_Brand": "Kalunga",
+    "Amount": 14,
+    "Unit_Cost": 3297.1,
+    "Total": 46159.4,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "4562741745e149b09770283e86fb7c40",
+    "User_ID": "4aaa1ceb245246e893d6fbef59615978",
+    "Date": "2023-03-05T00:03:35.000Z",
+    "Product_ID": "812b9cceed514885bbe6b52d2d8c168b",
+    "Product_Brand": "Tilibra",
+    "Amount": 15,
+    "Unit_Cost": 3090.23,
+    "Total": 46353.45,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "2ebc725971e94dfeba08dd6dec1db075",
+    "User_ID": "f9ecb2654e5d4a5e8167efbf5f4126dd",
+    "Date": "2023-02-19T19:59:23.000Z",
+    "Product_ID": "f73f487eeb6240b297a21df7e6cc4c0c",
+    "Product_Brand": "Elgin",
+    "Amount": 13,
+    "Unit_Cost": 2823.12,
+    "Total": 36700.56,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "addc765f118c486b98e9407e8897fd25",
+    "User_ID": "dd5b0ad9ad754dd48858124e1785ec65",
+    "Date": "2023-03-17T05:59:04.000Z",
+    "Product_ID": "537e207f26b14c189dd2936d96b92819",
+    "Product_Brand": "Bic",
+    "Amount": 10,
+    "Unit_Cost": 512.74,
+    "Total": 5127.4,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "5778612a9635470192d9f27f94a0a750",
+    "User_ID": "43332db246b94a5f8cd4f9e55500ff9f",
+    "Date": "2023-04-10T04:53:02.000Z",
+    "Product_ID": "a89aaae69a8841a09375cb1a23db2913",
+    "Product_Brand": "Compactor",
+    "Amount": 26,
+    "Unit_Cost": 1718.06,
+    "Total": 44669.56,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "9ffdfad17bf4496ea11af26481fd4d44",
+    "User_ID": "b2f2724900864dc9bde7585d4ec425e6",
+    "Date": "2023-07-03T22:39:44.000Z",
+    "Product_ID": "d5acbfd8df88451a9afc47f02eaa0c40",
+    "Product_Brand": "Tilibra",
+    "Amount": 30,
+    "Unit_Cost": 189.18,
+    "Total": 5675.4,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "d1d89fa67ff148d8ab92b3f0eb9c9f59",
+    "User_ID": "800c7c8f5f3f4c32b850c42e64cc5a2a",
+    "Date": "2023-07-20T06:53:30.000Z",
+    "Product_ID": "c05973f80dfc418897348a4afaeb66d7",
+    "Product_Brand": "Tilibra",
+    "Amount": 8,
+    "Unit_Cost": 2750.92,
+    "Total": 22007.36,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "36c1fa6026504ed4be0e9361331dce25",
+    "User_ID": "70d48434ebe04234bb26756cd568e19c",
+    "Date": "2023-03-13T11:07:09.000Z",
+    "Product_ID": "510049b243274d13bed0532b8b556766",
+    "Product_Brand": "Pilot",
+    "Amount": 13,
+    "Unit_Cost": 765.43,
+    "Total": 9950.59,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "2b65ad95fc7246ec889b2226c902c67e",
+    "User_ID": "814eda344cd14022aec174b1090cfa6d",
+    "Date": "2023-01-18T21:02:42.000Z",
+    "Product_ID": "cc6e5a9100e24ecfa105161403601746",
+    "Product_Brand": "Chamex",
+    "Amount": 7,
+    "Unit_Cost": 2855.23,
+    "Total": 19986.61,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "3fe90570c2cb47d4a7cb9ce6556f03d7",
+    "User_ID": "4bbc22c9923846708885fae204a54602",
+    "Date": "2023-05-21T13:19:37.000Z",
+    "Product_ID": "05c1e411039a4c00b405a889fb6ca8aa",
+    "Product_Brand": "Pilot",
+    "Amount": 15,
+    "Unit_Cost": 1365.95,
+    "Total": 20489.25,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "806f3b2df4d7460fbc31c47ae25ef277",
+    "User_ID": "8a9b3915b489446e90a4885e76403617",
+    "Date": "2023-08-17T14:11:01.000Z",
+    "Product_ID": "2a36982da4a445cd9b6be6d270a8d2f5",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 12,
+    "Unit_Cost": 1363.77,
+    "Total": 16365.24,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "cc506f21c53e47f986a8d314545d6d99",
+    "User_ID": "0ad78d390a5148d88c12cc17c4bc124a",
+    "Date": "2023-04-15T19:49:52.000Z",
+    "Product_ID": "c80681e8a9f44c1cbe18f93f1909965d",
+    "Product_Brand": "Compactor",
+    "Amount": 15,
+    "Unit_Cost": 3451.52,
+    "Total": 51772.8,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "72412d493e6c4473b1c582ebfee0a04b",
+    "User_ID": "e5eef25ef3c0483aa7759419d6d8d6f5",
+    "Date": "2023-02-03T04:22:27.000Z",
+    "Product_ID": "3cc6e2d0de8c40f9ad73db2b62c77714",
+    "Product_Brand": "Chamex",
+    "Amount": 13,
+    "Unit_Cost": 2837.33,
+    "Total": 36885.29,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "318795cde5b74339b2890d96028fca35",
+    "User_ID": "243768b617804f658e9481e858aa1a1f",
+    "Date": "2023-01-02T20:08:05.000Z",
+    "Product_ID": "7e968a50710e4be3ae79015160ed3cc5",
+    "Product_Brand": "Chamex",
+    "Amount": 17,
+    "Unit_Cost": 2808.48,
+    "Total": 47744.16,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "f309b62b279f4ad3a72d9f0ac54c62ff",
+    "User_ID": "0c811611c8d14c58a7b1d0b0d7e13bbd",
+    "Date": "2023-07-21T04:01:54.000Z",
+    "Product_ID": "c31b7dd2c13e45158d6795084f6bf726",
+    "Product_Brand": "Bic",
+    "Amount": 2,
+    "Unit_Cost": 1791.41,
+    "Total": 3582.82,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "52198ff6324346b8933f87058142ea3e",
+    "User_ID": "f989681bd5d74280b0093a767ccede49",
+    "Date": "2023-02-07T04:56:31.000Z",
+    "Product_ID": "c73a14bc981746698d10e4b5004dff54",
+    "Product_Brand": "Staedtler",
+    "Amount": 27,
+    "Unit_Cost": 2562.97,
+    "Total": 69200.19,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "c4ea4a832b4342bb84bec811d9a99823",
+    "User_ID": "9e53686e27f04875b89c72da6987421a",
+    "Date": "2023-04-03T11:39:48.000Z",
+    "Product_ID": "e384e1d6edfb41159891e6f61a5beff0",
+    "Product_Brand": "Staedtler",
+    "Amount": 24,
+    "Unit_Cost": 2402.25,
+    "Total": 57654.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "f8a1223c936c4986a2049cde5bc5bbc7",
+    "User_ID": "958894a4de7b4fd8a4463591bd390edd",
+    "Date": "2023-05-27T14:09:16.000Z",
+    "Product_ID": "bee60f24d5134b9bab0f14bc8bef1bc4",
+    "Product_Brand": "Elgin",
+    "Amount": 20,
+    "Unit_Cost": 1135.13,
+    "Total": 22702.6,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "b3c74ce5de054652a38d62c1cc17d941",
+    "User_ID": "7e86da144e9a4be98f6671b483a227c0",
+    "Date": "2023-04-11T11:02:12.000Z",
+    "Product_ID": "a23f3f358e9148ea99156bbd04ff6499",
+    "Product_Brand": "Tilibra",
+    "Amount": 9,
+    "Unit_Cost": 731.11,
+    "Total": 6579.99,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "9498565f4070497bbbfbf398a6ce619d",
+    "User_ID": "9c977a846b264cd294d658117138bbc5",
+    "Date": "2023-05-22T10:57:24.000Z",
+    "Product_ID": "5a0cc0a83dd648618aca9060e9799eba",
+    "Product_Brand": "Tilibra",
+    "Amount": 30,
+    "Unit_Cost": 566.4,
+    "Total": 16992.0,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "680069d916534d0899bf6b7c27ce081e",
+    "User_ID": "816b9c0eaf094e9ea6a8b00109677182",
+    "Date": "2023-01-21T11:55:28.000Z",
+    "Product_ID": "d51b41ce1c4643bf82e4f75e78ae149d",
+    "Product_Brand": "Elgin",
+    "Amount": 17,
+    "Unit_Cost": 404.99,
+    "Total": 6884.83,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "f0d1d40bca4241f3a409204d968d107e",
+    "User_ID": "c8aef02f8b904da3b09f2e0b1305f2bb",
+    "Date": "2023-02-09T17:40:54.000Z",
+    "Product_ID": "38dd63fd78e44a00878def913358f612",
+    "Product_Brand": "Kalunga",
+    "Amount": 29,
+    "Unit_Cost": 2031.2,
+    "Total": 58904.8,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "1938e678e3614613bb1304a85c7d5004",
+    "User_ID": "08614f914f0d4bf991fa210973bc8c1c",
+    "Date": "2023-07-12T18:09:23.000Z",
+    "Product_ID": "f8765b6ca56d464bb2ee210047d03243",
+    "Product_Brand": "Chamex",
+    "Amount": 9,
+    "Unit_Cost": 2792.35,
+    "Total": 25131.15,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "df4219dc923c45948afe749d8491791f",
+    "User_ID": "43397d33af48493d9db8a9458bd1d738",
+    "Date": "2023-01-10T16:16:19.000Z",
+    "Product_ID": "ba1dc06ac74746eca51676cad1b6b4cc",
+    "Product_Brand": "Positivo",
+    "Amount": 6,
+    "Unit_Cost": 1549.38,
+    "Total": 9296.28,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "9e0f19e92ec54320a017e33516e68b85",
+    "User_ID": "0341e108b8b04af791634b74fa535e00",
+    "Date": "2023-01-24T01:14:09.000Z",
+    "Product_ID": "95a93c69dba8498cb4d924f8306b35a5",
+    "Product_Brand": "Staedtler",
+    "Amount": 24,
+    "Unit_Cost": 3135.29,
+    "Total": 75246.96,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "1fb97dd4c2bf4993869c97a698c29962",
+    "User_ID": "a12c9b438338456bb3a4ab15b146be9d",
+    "Date": "2023-06-02T04:31:14.000Z",
+    "Product_ID": "3a5d0e54a06048909c43a1e50e2355e0",
+    "Product_Brand": "Positivo",
+    "Amount": 14,
+    "Unit_Cost": 2190.6,
+    "Total": 30668.4,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "0b50afd91415458ab4b9a96eecf656af",
+    "User_ID": "f32de6ee04be435eb3746b6d745056e7",
+    "Date": "2023-01-19T11:19:06.000Z",
+    "Product_ID": "4e1773ef0fa84c72bef64309225d9f05",
+    "Product_Brand": "Elgin",
+    "Amount": 2,
+    "Unit_Cost": 161.93,
+    "Total": 323.86,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "4201da4f78f54de798f33cc99fbdaf07",
+    "User_ID": "ff6a97786b76418aad6b6688626775dd",
+    "Date": "2023-05-19T04:13:23.000Z",
+    "Product_ID": "0694629e6274465e9f21788483dd0285",
+    "Product_Brand": "Positivo",
+    "Amount": 14,
+    "Unit_Cost": 1870.56,
+    "Total": 26187.84,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "564693e1a53f4a789d5478ee660fe8f0",
+    "User_ID": "e6503e4a0a584eee83e98b19c79bf936",
+    "Date": "2023-04-23T04:28:06.000Z",
+    "Product_ID": "1aa4c9599f354c1d8d4cf22e7286577f",
+    "Product_Brand": "Bic",
+    "Amount": 1,
+    "Unit_Cost": 557.29,
+    "Total": 557.29,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "f21d74cbb58a49ffb7eb531e5bcc1897",
+    "User_ID": "b94e557d89b14c7f96552d285b9aeeba",
+    "Date": "2023-05-13T08:00:03.000Z",
+    "Product_ID": "a1dfdeb4a93548639ab75ffbb548dfb9",
+    "Product_Brand": "Elgin",
+    "Amount": 22,
+    "Unit_Cost": 508.56,
+    "Total": 11188.32,
+    "Product_Category": "Moveis"
+  },
+  {
+    "Sale_ID": "25809a94ca614e06bdca6bd7dec6a6c4",
+    "User_ID": "6004344613f04da389c9fa33cfc46355",
+    "Date": "2023-08-20T16:46:31.000Z",
+    "Product_ID": "18094f555fbb4fc7b3dbb9da3a1e6094",
+    "Product_Brand": "Pilot",
+    "Amount": 19,
+    "Unit_Cost": 2082.55,
+    "Total": 39568.45,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "72910639c71b4ce19e2c9198492eceb1",
+    "User_ID": "35334c04bf65487f9b2359d29945cff2",
+    "Date": "2023-01-18T00:25:11.000Z",
+    "Product_ID": "59675120a82b47599e460f6fd1bbf2fc",
+    "Product_Brand": "Pilot",
+    "Amount": 2,
+    "Unit_Cost": 3162.5,
+    "Total": 6325.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "70ebd0ae5edc4b62b30f971c955d9e68",
+    "User_ID": "64d5a44d831144d6af986f7b6f7ebe56",
+    "Date": "2023-02-01T19:35:42.000Z",
+    "Product_ID": "f0bf4ba6d6644fc68eb34b640613bd1c",
+    "Product_Brand": "Pilot",
+    "Amount": 25,
+    "Unit_Cost": 206.68,
+    "Total": 5167.0,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "6c2bde3e041a45f9b7464792f73bdb8d",
+    "User_ID": "f16f7391360f43c6a04a782b6bd7457e",
+    "Date": "2023-07-27T19:11:32.000Z",
+    "Product_ID": "553b28a743e94068a3ee1ac68b2a9446",
+    "Product_Brand": "Staedtler",
+    "Amount": 17,
+    "Unit_Cost": 1447.59,
+    "Total": 24609.03,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "2392bdec76954acd879778d72ef3fb31",
+    "User_ID": "886a619eed5c455f8351cf8b06a6f219",
+    "Date": "2023-08-23T17:00:24.000Z",
+    "Product_ID": "b95a98d9c75144ca9a27ff0db66412c0",
+    "Product_Brand": "Kalunga",
+    "Amount": 2,
+    "Unit_Cost": 1052.68,
+    "Total": 2105.36,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "23b98030e8794a089dbe2e40da1266af",
+    "User_ID": "4409aa10dc6049bd9d23b39107f3c283",
+    "Date": "2023-08-06T07:06:16.000Z",
+    "Product_ID": "ce2aecdf7ad04d338b46a34ec40fbcb2",
+    "Product_Brand": "Pilot",
+    "Amount": 3,
+    "Unit_Cost": 3193.13,
+    "Total": 9579.39,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "6909bbb5a4bc4165a159e46753984f54",
+    "User_ID": "a8b32d936091474eb2b9d9065e4d2dee",
+    "Date": "2023-05-23T01:17:40.000Z",
+    "Product_ID": "deda61d8f12a4e858f2348d7e5e99b60",
+    "Product_Brand": "Elgin",
+    "Amount": 11,
+    "Unit_Cost": 138.26,
+    "Total": 1520.86,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "8787afd67d0e4bfc8af0a8b21b83a6c6",
+    "User_ID": "76dc8868dc7b4f5389df719b8a9911fd",
+    "Date": "2023-05-10T20:59:57.000Z",
+    "Product_ID": "c94ac69bba814781aa535d77765d642f",
+    "Product_Brand": "Pilot",
+    "Amount": 26,
+    "Unit_Cost": 1527.59,
+    "Total": 39717.34,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "d12d1dde85cb4cf78d2131b272522a0b",
+    "User_ID": "91136003be434bf286760c2d12b68b33",
+    "Date": "2023-03-09T07:53:47.000Z",
+    "Product_ID": "ca0fe292eb58479189c80d6e09afd74f",
+    "Product_Brand": "Pilot",
+    "Amount": 1,
+    "Unit_Cost": 3080.46,
+    "Total": 3080.46,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "e63a9caa928e49eb922313b980d31ddf",
+    "User_ID": "97f1402d673d474aae49aef4e5acb931",
+    "Date": "2023-04-13T10:38:15.000Z",
+    "Product_ID": "cbe718e9556946a5a84ec555f8afe3b7",
+    "Product_Brand": "Kalunga",
+    "Amount": 11,
+    "Unit_Cost": 2612.16,
+    "Total": 28733.76,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "ed125451b5c54cc097b6e43eda07928f",
+    "User_ID": "4fafa547438147428af3e6367a47017c",
+    "Date": "2023-08-16T16:44:00.000Z",
+    "Product_ID": "25072ecae47444209aa58c82f8e9aef5",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 22,
+    "Unit_Cost": 3226.07,
+    "Total": 70973.54,
+    "Product_Category": "Informatica"
+  },
+  {
+    "Sale_ID": "3e00e62d491d4a8b8476f5a53e2be840",
+    "User_ID": "db8fea97bd6b42eab591d30375898eeb",
+    "Date": "2023-05-26T06:25:39.000Z",
+    "Product_ID": "183e42ca62bb4d62b6888c72e6b8f584",
+    "Product_Brand": "Positivo",
+    "Amount": 8,
+    "Unit_Cost": 3345.05,
+    "Total": 26760.4,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "ffd7fa8bf9ea43e994e4e1dfebcc032b",
+    "User_ID": "3d0b7edcf32c45f794d6fcd4c7bbeb26",
+    "Date": "2023-03-02T00:07:06.000Z",
+    "Product_ID": "1e3cea0135e948beab68227f4c512925",
+    "Product_Brand": "Positivo",
+    "Amount": 6,
+    "Unit_Cost": 1979.3,
+    "Total": 11875.8,
+    "Product_Category": "Eletronicos"
+  },
+  {
+    "Sale_ID": "d3cc0fa8316b4fd589017bfde6d9efba",
+    "User_ID": "067255958a594a0b8823752da68a7169",
+    "Date": "2023-01-01T01:08:44.000Z",
+    "Product_ID": "eb201130ce314c6a802a1d68719c79c1",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 5,
+    "Unit_Cost": 1208.66,
+    "Total": 6043.3,
+    "Product_Category": "Decoracao"
+  },
+  {
+    "Sale_ID": "e2b1da8f2dc34b7b84f8087129eb1b9b",
+    "User_ID": "36baebc201eb4f87bf6e939f7003a44d",
+    "Date": "2023-02-28T18:48:23.000Z",
+    "Product_ID": "712686352cfb44c290eaf5a1a8412ab5",
+    "Product_Brand": "Pilot",
+    "Amount": 2,
+    "Unit_Cost": 239.73,
+    "Total": 479.46,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "ddf2dff28b174b58a6aae3106746b7e9",
+    "User_ID": "870d96d3c411443d867915001f64efd3",
+    "Date": "2023-07-04T07:13:13.000Z",
+    "Product_ID": "4236fd06c44749e49b26ad83db591451",
+    "Product_Brand": "Bic",
+    "Amount": 3,
+    "Unit_Cost": 3119.75,
+    "Total": 9359.25,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "82bf6fa0311e43e7a982c37a9d36d94b",
+    "User_ID": "d116cf6fdbf94e0dbc4de1a36cac32fe",
+    "Date": "2023-02-27T20:40:18.000Z",
+    "Product_ID": "e7b97a270cad4b6292e1d77bc641c6c4",
+    "Product_Brand": "Compactor",
+    "Amount": 28,
+    "Unit_Cost": 122.91,
+    "Total": 3441.48,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "9ed6e5e87e424c41a36d4b63f8be1038",
+    "User_ID": "9a3db07d261049a1b3d46ae0e97f78e0",
+    "Date": "2023-04-10T10:21:27.000Z",
+    "Product_ID": "130deed702b54a6ab8d30732ae89a1c1",
+    "Product_Brand": "Staedtler",
+    "Amount": 26,
+    "Unit_Cost": 466.46,
+    "Total": 12127.96,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "5a1b2373781d40529619c2452a2a37ee",
+    "User_ID": "bd51bc2f00f84e1db2f27126edd35eee",
+    "Date": "2023-05-02T22:48:23.000Z",
+    "Product_ID": "bdd9386749ae48aa9f108ea7b412232a",
+    "Product_Brand": "Chamex",
+    "Amount": 30,
+    "Unit_Cost": 1229.78,
+    "Total": 36893.4,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "588d9c1bbda54f27bc9046f89eb77f79",
+    "User_ID": "bb82de6d39ab4e80af578d0d87dcdb70",
+    "Date": "2023-05-20T23:01:50.000Z",
+    "Product_ID": "cb595e144f88485bbda251c0424b43d7",
+    "Product_Brand": "Kalunga",
+    "Amount": 28,
+    "Unit_Cost": 1764.32,
+    "Total": 49400.96,
+    "Product_Category": "Papelaria"
+  },
+  {
+    "Sale_ID": "4f34db6c3c2c4ecdb4beb45eed909f8f",
+    "User_ID": "de5a8011c9bd4b86a4299371235f78a7",
+    "Date": "2023-02-12T15:45:03.000Z",
+    "Product_ID": "f50b2b8afd7342698a9a72c81f971309",
+    "Product_Brand": "Elgin",
+    "Amount": 25,
+    "Unit_Cost": 1528.98,
+    "Total": 38224.5,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "848b4410fa9d42c1bf3da4b055ba4c09",
+    "User_ID": "82ec02c33c6d426aa0b6605f9665341b",
+    "Date": "2023-02-19T09:10:27.000Z",
+    "Product_ID": "3458df7ceb414600861ae3b5f3a6f5a1",
+    "Product_Brand": "Faber-Castell",
+    "Amount": 28,
+    "Unit_Cost": 759.97,
+    "Total": 21279.16,
+    "Product_Category": "Eletrodomesticos"
+  },
+  {
+    "Sale_ID": "d1001e097a944318afcafd660fd205cc",
+    "User_ID": "9c74b1c8631a4068a63f22a567467951",
+    "Date": "2023-01-01T11:31:06.000Z",
+    "Product_ID": "8f4d6795a0c44706958c6d2d8db36475",
+    "Product_Brand": "Compactor",
+    "Amount": 25,
+    "Unit_Cost": 709.12,
+    "Total": 17728.0,
+    "Product_Category": "Decoracao"
+  }
+]
