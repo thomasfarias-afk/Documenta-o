@@ -1,0 +1,210 @@
+=====================================================
+ARQUIVO DE TESTE - DADOS FICTICIOS PARA N8N
+=====================================================
+
+--- PRODUTOS ---
+ID: 1 | Nome: Notebook Pro 15 | Categoria: Decoracao | Preco: 583.22 | Estoque: 192
+ID: 2 | Nome: Mouse Sem Fio | Categoria: Papelaria | Preco: 1247.01 | Estoque: 38
+ID: 3 | Nome: Cadeira Ergonomica | Categoria: Decoracao | Preco: 539.3 | Estoque: 192
+ID: 4 | Nome: Monitor 27 polegadas | Categoria: Eletrodomesticos | Preco: 461.99 | Estoque: 111
+ID: 5 | Nome: Teclado Mecanico | Categoria: Eletronicos | Preco: 177.99 | Estoque: 58
+ID: 6 | Nome: Mesa de Escritorio | Categoria: Moveis | Preco: 2541.52 | Estoque: 9
+ID: 7 | Nome: Fone Bluetooth | Categoria: Eletrodomesticos | Preco: 1018.12 | Estoque: 169
+ID: 8 | Nome: Luminaria de Mesa | Categoria: Decoracao | Preco: 2738.26 | Estoque: 59
+ID: 9 | Nome: Webcam Full HD | Categoria: Informatica | Preco: 2958.55 | Estoque: 4
+ID: 10 | Nome: Caderno Universitario | Categoria: Moveis | Preco: 3499.65 | Estoque: 90
+ID: 11 | Nome: Caneta Esferografica Kit | Categoria: Papelaria | Preco: 802.63 | Estoque: 198
+ID: 12 | Nome: Grampeador | Categoria: Papelaria | Preco: 537.89 | Estoque: 100
+ID: 13 | Nome: Impressora Multifuncional | Categoria: Eletronicos | Preco: 1814.03 | Estoque: 91
+ID: 14 | Nome: HD Externo 1TB | Categoria: Eletrodomesticos | Preco: 1344.57 | Estoque: 14
+ID: 15 | Nome: Pendrive 64GB | Categoria: Decoracao | Preco: 2313.24 | Estoque: 34
+ID: 16 | Nome: Roteador Wifi 6 | Categoria: Informatica | Preco: 421.54 | Estoque: 78
+ID: 17 | Nome: Cafeteira Eletrica | Categoria: Decoracao | Preco: 3103.94 | Estoque: 95
+ID: 18 | Nome: Micro-ondas 30L | Categoria: Eletrodomesticos | Preco: 985.57 | Estoque: 20
+ID: 19 | Nome: Ventilador de Mesa | Categoria: Eletronicos | Preco: 3316.38 | Estoque: 200
+ID: 20 | Nome: Quadro Decorativo | Categoria: Papelaria | Preco: 4926.45 | Estoque: 62
+ID: 21 | Nome: Tapete para Escritorio | Categoria: Eletronicos | Preco: 1919.13 | Estoque: 119
+ID: 22 | Nome: Organizador de Mesa | Categoria: Decoracao | Preco: 4175.43 | Estoque: 44
+ID: 23 | Nome: Suporte para Notebook | Categoria: Papelaria | Preco: 1795.6 | Estoque: 174
+ID: 24 | Nome: Headset Gamer | Categoria: Papelaria | Preco: 3517.95 | Estoque: 177
+ID: 25 | Nome: Cadeira Gamer | Categoria: Decoracao | Preco: 384.77 | Estoque: 165
+ID: 26 | Nome: Mesa Digitalizadora | Categoria: Moveis | Preco: 2684.58 | Estoque: 65
+ID: 27 | Nome: Estabilizador de Energia | Categoria: Moveis | Preco: 2327.33 | Estoque: 72
+ID: 28 | Nome: Filtro de Linha | Categoria: Decoracao | Preco: 3450.06 | Estoque: 59
+ID: 29 | Nome: Lixeira de Escritorio | Categoria: Decoracao | Preco: 1641.59 | Estoque: 199
+ID: 30 | Nome: Ar Condicionado Portatil | Categoria: Eletronicos | Preco: 1168.27 | Estoque: 11
+ID: 31 | Nome: Purificador de Ar | Categoria: Papelaria | Preco: 2023.69 | Estoque: 19
+ID: 32 | Nome: Cofre Eletronico | Categoria: Moveis | Preco: 4568.19 | Estoque: 148
+ID: 33 | Nome: Painel de LED | Categoria: Decoracao | Preco: 1593.85 | Estoque: 170
+ID: 34 | Nome: Divisoria de Ambiente | Categoria: Informatica | Preco: 1996.19 | Estoque: 167
+ID: 35 | Nome: Armario de Aco | Categoria: Informatica | Preco: 739.97 | Estoque: 38
+ID: 36 | Nome: Prateleira Modular | Categoria: Moveis | Preco: 3732.5 | Estoque: 140
+ID: 37 | Nome: Calculadora Cientifica | Categoria: Papelaria | Preco: 3742.56 | Estoque: 112
+ID: 38 | Nome: Agenda Executiva | Categoria: Eletrodomesticos | Preco: 2014.92 | Estoque: 59
+ID: 39 | Nome: Porta Cartao | Categoria: Moveis | Preco: 2562.25 | Estoque: 26
+ID: 40 | Nome: Mochila para Notebook | Categoria: Eletronicos | Preco: 4309.58 | Estoque: 42
+
+--- VENDAS ---
+ID_Venda: 101 | ID_Produto: 11 | Quantidade: 22 | Data: 2026-07-20 | Cliente: Empresa B | Total: 17657.86
+ID_Venda: 102 | ID_Produto: 25 | Quantidade: 13 | Data: 2026-08-17 | Cliente: Empresa E | Total: 5002.01
+ID_Venda: 103 | ID_Produto: 36 | Quantidade: 1 | Data: 2026-02-22 | Cliente: Empresa E | Total: 3732.5
+ID_Venda: 104 | ID_Produto: 22 | Quantidade: 4 | Data: 2026-05-14 | Cliente: Empresa C | Total: 16701.72
+ID_Venda: 105 | ID_Produto: 30 | Quantidade: 1 | Data: 2026-05-17 | Cliente: Empresa C | Total: 1168.27
+ID_Venda: 106 | ID_Produto: 33 | Quantidade: 4 | Data: 2026-05-27 | Cliente: Empresa D | Total: 6375.4
+ID_Venda: 107 | ID_Produto: 10 | Quantidade: 12 | Data: 2026-03-18 | Cliente: Empresa A | Total: 41995.8
+ID_Venda: 108 | ID_Produto: 39 | Quantidade: 11 | Data: 2026-08-01 | Cliente: Empresa B | Total: 28184.75
+ID_Venda: 109 | ID_Produto: 24 | Quantidade: 10 | Data: 2026-04-02 | Cliente: Empresa D | Total: 35179.5
+ID_Venda: 110 | ID_Produto: 37 | Quantidade: 3 | Data: 2026-02-24 | Cliente: Empresa H | Total: 11227.68
+ID_Venda: 111 | ID_Produto: 5 | Quantidade: 25 | Data: 2026-03-05 | Cliente: Empresa H | Total: 4449.75
+ID_Venda: 112 | ID_Produto: 36 | Quantidade: 6 | Data: 2026-05-17 | Cliente: Empresa G | Total: 22395.0
+ID_Venda: 113 | ID_Produto: 14 | Quantidade: 18 | Data: 2026-04-23 | Cliente: Empresa E | Total: 24202.26
+ID_Venda: 114 | ID_Produto: 26 | Quantidade: 22 | Data: 2026-06-15 | Cliente: Empresa H | Total: 59060.76
+ID_Venda: 115 | ID_Produto: 8 | Quantidade: 8 | Data: 2026-04-03 | Cliente: Empresa F | Total: 21906.08
+ID_Venda: 116 | ID_Produto: 2 | Quantidade: 19 | Data: 2026-04-19 | Cliente: Empresa D | Total: 23693.19
+ID_Venda: 117 | ID_Produto: 1 | Quantidade: 3 | Data: 2026-01-08 | Cliente: Empresa B | Total: 1749.66
+ID_Venda: 118 | ID_Produto: 3 | Quantidade: 11 | Data: 2026-02-17 | Cliente: Empresa D | Total: 5932.3
+ID_Venda: 119 | ID_Produto: 18 | Quantidade: 22 | Data: 2026-08-07 | Cliente: Empresa C | Total: 21682.54
+ID_Venda: 120 | ID_Produto: 37 | Quantidade: 19 | Data: 2026-08-08 | Cliente: Empresa H | Total: 71108.64
+ID_Venda: 121 | ID_Produto: 27 | Quantidade: 7 | Data: 2026-02-04 | Cliente: Empresa G | Total: 16291.31
+ID_Venda: 122 | ID_Produto: 23 | Quantidade: 14 | Data: 2026-07-15 | Cliente: Empresa A | Total: 25138.4
+ID_Venda: 123 | ID_Produto: 7 | Quantidade: 2 | Data: 2026-07-24 | Cliente: Empresa F | Total: 2036.24
+ID_Venda: 124 | ID_Produto: 7 | Quantidade: 8 | Data: 2026-04-07 | Cliente: Empresa H | Total: 8144.96
+ID_Venda: 125 | ID_Produto: 9 | Quantidade: 14 | Data: 2026-03-09 | Cliente: Empresa H | Total: 41419.7
+ID_Venda: 126 | ID_Produto: 16 | Quantidade: 3 | Data: 2026-08-26 | Cliente: Empresa B | Total: 1264.62
+ID_Venda: 127 | ID_Produto: 4 | Quantidade: 21 | Data: 2026-01-03 | Cliente: Empresa D | Total: 9701.79
+ID_Venda: 128 | ID_Produto: 11 | Quantidade: 14 | Data: 2026-08-16 | Cliente: Empresa D | Total: 11236.82
+ID_Venda: 129 | ID_Produto: 26 | Quantidade: 2 | Data: 2026-03-13 | Cliente: Empresa A | Total: 5369.16
+ID_Venda: 130 | ID_Produto: 25 | Quantidade: 9 | Data: 2026-08-10 | Cliente: Empresa G | Total: 3462.93
+ID_Venda: 131 | ID_Produto: 36 | Quantidade: 22 | Data: 2026-08-05 | Cliente: Empresa D | Total: 82115.0
+ID_Venda: 132 | ID_Produto: 19 | Quantidade: 7 | Data: 2026-01-19 | Cliente: Empresa A | Total: 23214.66
+ID_Venda: 133 | ID_Produto: 21 | Quantidade: 2 | Data: 2026-01-19 | Cliente: Empresa H | Total: 3838.26
+ID_Venda: 134 | ID_Produto: 33 | Quantidade: 17 | Data: 2026-03-02 | Cliente: Empresa B | Total: 27095.45
+ID_Venda: 135 | ID_Produto: 12 | Quantidade: 3 | Data: 2026-02-22 | Cliente: Empresa D | Total: 1613.67
+ID_Venda: 136 | ID_Produto: 26 | Quantidade: 4 | Data: 2026-04-19 | Cliente: Empresa A | Total: 10738.32
+ID_Venda: 137 | ID_Produto: 40 | Quantidade: 3 | Data: 2026-07-22 | Cliente: Empresa F | Total: 12928.74
+ID_Venda: 138 | ID_Produto: 17 | Quantidade: 7 | Data: 2026-06-08 | Cliente: Empresa E | Total: 21727.58
+ID_Venda: 139 | ID_Produto: 26 | Quantidade: 5 | Data: 2026-05-15 | Cliente: Empresa F | Total: 13422.9
+ID_Venda: 140 | ID_Produto: 5 | Quantidade: 1 | Data: 2026-08-20 | Cliente: Empresa B | Total: 177.99
+ID_Venda: 141 | ID_Produto: 5 | Quantidade: 18 | Data: 2026-04-17 | Cliente: Empresa E | Total: 3203.82
+ID_Venda: 142 | ID_Produto: 9 | Quantidade: 12 | Data: 2026-02-08 | Cliente: Empresa F | Total: 35502.6
+ID_Venda: 143 | ID_Produto: 19 | Quantidade: 6 | Data: 2026-08-27 | Cliente: Empresa E | Total: 19898.28
+ID_Venda: 144 | ID_Produto: 40 | Quantidade: 21 | Data: 2026-01-22 | Cliente: Empresa E | Total: 90501.18
+ID_Venda: 145 | ID_Produto: 7 | Quantidade: 5 | Data: 2026-05-04 | Cliente: Empresa B | Total: 5090.6
+ID_Venda: 146 | ID_Produto: 36 | Quantidade: 5 | Data: 2026-05-10 | Cliente: Empresa D | Total: 18662.5
+ID_Venda: 147 | ID_Produto: 22 | Quantidade: 7 | Data: 2026-05-17 | Cliente: Empresa H | Total: 29228.01
+ID_Venda: 148 | ID_Produto: 17 | Quantidade: 2 | Data: 2026-02-21 | Cliente: Empresa G | Total: 6207.88
+ID_Venda: 149 | ID_Produto: 18 | Quantidade: 2 | Data: 2026-01-11 | Cliente: Empresa C | Total: 1971.14
+ID_Venda: 150 | ID_Produto: 17 | Quantidade: 6 | Data: 2026-08-18 | Cliente: Empresa G | Total: 18623.64
+ID_Venda: 151 | ID_Produto: 36 | Quantidade: 1 | Data: 2026-02-03 | Cliente: Empresa C | Total: 3732.5
+ID_Venda: 152 | ID_Produto: 35 | Quantidade: 2 | Data: 2026-06-19 | Cliente: Empresa C | Total: 1479.94
+ID_Venda: 153 | ID_Produto: 28 | Quantidade: 5 | Data: 2026-01-10 | Cliente: Empresa F | Total: 17250.3
+ID_Venda: 154 | ID_Produto: 3 | Quantidade: 12 | Data: 2026-04-22 | Cliente: Empresa D | Total: 6471.6
+ID_Venda: 155 | ID_Produto: 7 | Quantidade: 12 | Data: 2026-07-20 | Cliente: Empresa C | Total: 12217.44
+ID_Venda: 156 | ID_Produto: 16 | Quantidade: 6 | Data: 2026-03-14 | Cliente: Empresa A | Total: 2529.24
+ID_Venda: 157 | ID_Produto: 12 | Quantidade: 24 | Data: 2026-06-26 | Cliente: Empresa G | Total: 12909.36
+ID_Venda: 158 | ID_Produto: 16 | Quantidade: 9 | Data: 2026-03-26 | Cliente: Empresa B | Total: 3793.86
+ID_Venda: 159 | ID_Produto: 25 | Quantidade: 2 | Data: 2026-08-08 | Cliente: Empresa D | Total: 769.54
+ID_Venda: 160 | ID_Produto: 30 | Quantidade: 12 | Data: 2026-05-27 | Cliente: Empresa D | Total: 14019.24
+
+--- COMPRAS (FORNECEDORES) ---
+ID_Compra: 201 | ID_Produto: 15 | Quantidade: 6 | Data: 2026-04-13 | Fornecedor: Fornecedor Z | Total: 7906.44
+ID_Compra: 202 | ID_Produto: 5 | Quantidade: 54 | Data: 2026-05-12 | Fornecedor: Fornecedor Delta | Total: 6029.64
+ID_Compra: 203 | ID_Produto: 35 | Quantidade: 26 | Data: 2026-01-04 | Fornecedor: Fornecedor Z | Total: 10478.52
+ID_Compra: 204 | ID_Produto: 17 | Quantidade: 7 | Data: 2026-02-20 | Fornecedor: Fornecedor Alpha | Total: 12741.54
+ID_Compra: 205 | ID_Produto: 21 | Quantidade: 32 | Data: 2026-02-13 | Fornecedor: Fornecedor Beta | Total: 33624.32
+ID_Compra: 206 | ID_Produto: 3 | Quantidade: 50 | Data: 2026-07-01 | Fornecedor: Fornecedor Beta | Total: 19722.0
+ID_Compra: 207 | ID_Produto: 35 | Quantidade: 48 | Data: 2026-04-12 | Fornecedor: Fornecedor Alpha | Total: 18380.64
+ID_Compra: 208 | ID_Produto: 22 | Quantidade: 44 | Data: 2026-06-22 | Fornecedor: Fornecedor X | Total: 124917.76
+ID_Compra: 209 | ID_Produto: 20 | Quantidade: 37 | Data: 2026-05-22 | Fornecedor: Fornecedor Alpha | Total: 106003.52
+ID_Compra: 210 | ID_Produto: 19 | Quantidade: 40 | Data: 2026-03-07 | Fornecedor: Fornecedor Alpha | Total: 88379.2
+ID_Compra: 211 | ID_Produto: 25 | Quantidade: 48 | Data: 2026-03-20 | Fornecedor: Fornecedor Beta | Total: 10623.84
+ID_Compra: 212 | ID_Produto: 36 | Quantidade: 58 | Data: 2026-01-10 | Fornecedor: Fornecedor Z | Total: 119618.04
+ID_Compra: 213 | ID_Produto: 38 | Quantidade: 43 | Data: 2026-06-15 | Fornecedor: Fornecedor Alpha | Total: 52898.17
+ID_Compra: 214 | ID_Produto: 14 | Quantidade: 37 | Data: 2026-08-26 | Fornecedor: Fornecedor Delta | Total: 26985.21
+ID_Compra: 215 | ID_Produto: 6 | Quantidade: 23 | Data: 2026-06-03 | Fornecedor: Fornecedor Y | Total: 39059.52
+ID_Compra: 216 | ID_Produto: 15 | Quantidade: 56 | Data: 2026-04-05 | Fornecedor: Fornecedor X | Total: 66267.6
+ID_Compra: 217 | ID_Produto: 31 | Quantidade: 44 | Data: 2026-02-15 | Fornecedor: Fornecedor Alpha | Total: 64247.04
+ID_Compra: 218 | ID_Produto: 37 | Quantidade: 17 | Data: 2026-07-16 | Fornecedor: Fornecedor Alpha | Total: 35692.52
+ID_Compra: 219 | ID_Produto: 1 | Quantidade: 53 | Data: 2026-02-25 | Fornecedor: Fornecedor Alpha | Total: 17146.56
+ID_Compra: 220 | ID_Produto: 34 | Quantidade: 34 | Data: 2026-01-18 | Fornecedor: Fornecedor Y | Total: 49502.64
+ID_Compra: 221 | ID_Produto: 8 | Quantidade: 34 | Data: 2026-03-26 | Fornecedor: Fornecedor Alpha | Total: 62088.42
+ID_Compra: 222 | ID_Produto: 36 | Quantidade: 43 | Data: 2026-06-25 | Fornecedor: Fornecedor Alpha | Total: 104830.99
+ID_Compra: 223 | ID_Produto: 33 | Quantidade: 32 | Data: 2026-08-06 | Fornecedor: Fornecedor Delta | Total: 36486.4
+ID_Compra: 224 | ID_Produto: 29 | Quantidade: 21 | Data: 2026-04-27 | Fornecedor: Fornecedor Delta | Total: 19626.6
+ID_Compra: 225 | ID_Produto: 34 | Quantidade: 36 | Data: 2026-04-09 | Fornecedor: Fornecedor Alpha | Total: 37323.36
+ID_Compra: 226 | ID_Produto: 19 | Quantidade: 20 | Data: 2026-05-11 | Fornecedor: Fornecedor Z | Total: 47971.8
+ID_Compra: 227 | ID_Produto: 6 | Quantidade: 13 | Data: 2026-03-08 | Fornecedor: Fornecedor Alpha | Total: 22251.84
+ID_Compra: 228 | ID_Produto: 14 | Quantidade: 9 | Data: 2026-07-14 | Fornecedor: Fornecedor Z | Total: 7692.12
+ID_Compra: 229 | ID_Produto: 27 | Quantidade: 8 | Data: 2026-04-27 | Fornecedor: Fornecedor Alpha | Total: 11122.24
+ID_Compra: 230 | ID_Produto: 38 | Quantidade: 49 | Data: 2026-01-28 | Fornecedor: Fornecedor Beta | Total: 58754.43
+ID_Compra: 231 | ID_Produto: 1 | Quantidade: 27 | Data: 2026-05-25 | Fornecedor: Fornecedor Alpha | Total: 11233.35
+ID_Compra: 232 | ID_Produto: 27 | Quantidade: 39 | Data: 2026-04-16 | Fornecedor: Fornecedor Y | Total: 51576.33
+ID_Compra: 233 | ID_Produto: 32 | Quantidade: 6 | Data: 2026-07-11 | Fornecedor: Fornecedor Delta | Total: 18358.26
+ID_Compra: 234 | ID_Produto: 26 | Quantidade: 51 | Data: 2026-03-27 | Fornecedor: Fornecedor Alpha | Total: 99931.44
+ID_Compra: 235 | ID_Produto: 40 | Quantidade: 39 | Data: 2026-01-13 | Fornecedor: Fornecedor Beta | Total: 107751.54
+ID_Compra: 236 | ID_Produto: 2 | Quantidade: 10 | Data: 2026-07-05 | Fornecedor: Fornecedor Alpha | Total: 6801.6
+ID_Compra: 237 | ID_Produto: 17 | Quantidade: 29 | Data: 2026-06-07 | Fornecedor: Fornecedor Alpha | Total: 52362.4
+ID_Compra: 238 | ID_Produto: 25 | Quantidade: 22 | Data: 2026-07-09 | Fornecedor: Fornecedor X | Total: 5227.64
+ID_Compra: 239 | ID_Produto: 35 | Quantidade: 8 | Data: 2026-06-08 | Fornecedor: Fornecedor Delta | Total: 3061.44
+ID_Compra: 240 | ID_Produto: 3 | Quantidade: 53 | Data: 2026-01-08 | Fornecedor: Fornecedor Y | Total: 20288.4
+ID_Compra: 241 | ID_Produto: 40 | Quantidade: 14 | Data: 2026-04-05 | Fornecedor: Fornecedor Alpha | Total: 40264.84
+ID_Compra: 242 | ID_Produto: 37 | Quantidade: 18 | Data: 2026-08-23 | Fornecedor: Fornecedor Z | Total: 46598.76
+ID_Compra: 243 | ID_Produto: 11 | Quantidade: 43 | Data: 2026-02-25 | Fornecedor: Fornecedor Y | Total: 25580.27
+ID_Compra: 244 | ID_Produto: 7 | Quantidade: 42 | Data: 2026-01-10 | Fornecedor: Fornecedor Beta | Total: 28621.74
+ID_Compra: 245 | ID_Produto: 25 | Quantidade: 30 | Data: 2026-04-03 | Fornecedor: Fornecedor Beta | Total: 7764.6
+
+--- PESQUISA DE SATISFACAO ---
+ID_Pesquisa: 301 | Cliente: Empresa D | Nota: 4 | Comentario: Demorou para responder o chamado | Data: 2026-05-28
+ID_Pesquisa: 302 | Cliente: Empresa B | Nota: 10 | Comentario: Suporte tecnico muito atencioso | Data: 2026-01-12
+ID_Pesquisa: 303 | Cliente: Empresa G | Nota: 9 | Comentario: Atendimento poderia melhorar | Data: 2026-02-17
+ID_Pesquisa: 304 | Cliente: Empresa F | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-07-27
+ID_Pesquisa: 305 | Cliente: Empresa H | Nota: 4 | Comentario: Superou minhas expectativas | Data: 2026-06-21
+ID_Pesquisa: 306 | Cliente: Empresa H | Nota: 9 | Comentario: Excelente qualidade e suporte | Data: 2026-07-06
+ID_Pesquisa: 307 | Cliente: Empresa E | Nota: 8 | Comentario: Produto exatamente como descrito | Data: 2026-08-15
+ID_Pesquisa: 308 | Cliente: Empresa G | Nota: 10 | Comentario: Demorou para responder o chamado | Data: 2026-05-11
+ID_Pesquisa: 309 | Cliente: Empresa D | Nota: 10 | Comentario: Voltaria a comprar com certeza | Data: 2026-02-09
+ID_Pesquisa: 310 | Cliente: Empresa H | Nota: 5 | Comentario: Produto exatamente como descrito | Data: 2026-08-19
+ID_Pesquisa: 311 | Cliente: Empresa G | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-08-28
+ID_Pesquisa: 312 | Cliente: Empresa F | Nota: 5 | Comentario: Entrega dentro do prazo, produto ok | Data: 2026-04-12
+ID_Pesquisa: 313 | Cliente: Empresa E | Nota: 6 | Comentario: Recompraria sem duvida | Data: 2026-05-18
+ID_Pesquisa: 314 | Cliente: Empresa A | Nota: 8 | Comentario: Preco um pouco alto | Data: 2026-02-08
+ID_Pesquisa: 315 | Cliente: Empresa G | Nota: 7 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-04-23
+ID_Pesquisa: 316 | Cliente: Empresa H | Nota: 9 | Comentario: Demorou para responder o chamado | Data: 2026-08-15
+ID_Pesquisa: 317 | Cliente: Empresa A | Nota: 4 | Comentario: Recompraria sem duvida | Data: 2026-04-13
+ID_Pesquisa: 318 | Cliente: Empresa D | Nota: 6 | Comentario: Preco justo pela qualidade | Data: 2026-06-16
+ID_Pesquisa: 319 | Cliente: Empresa F | Nota: 7 | Comentario: Demorou para responder o chamado | Data: 2026-06-12
+ID_Pesquisa: 320 | Cliente: Empresa H | Nota: 6 | Comentario: Recompraria sem duvida | Data: 2026-05-08
+ID_Pesquisa: 321 | Cliente: Empresa B | Nota: 9 | Comentario: Preco um pouco alto | Data: 2026-06-04
+ID_Pesquisa: 322 | Cliente: Empresa C | Nota: 5 | Comentario: Preco um pouco alto | Data: 2026-08-09
+ID_Pesquisa: 323 | Cliente: Empresa E | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-04-10
+ID_Pesquisa: 324 | Cliente: Empresa D | Nota: 6 | Comentario: Excelente qualidade e suporte | Data: 2026-05-01
+ID_Pesquisa: 325 | Cliente: Empresa C | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-01-18
+ID_Pesquisa: 326 | Cliente: Empresa E | Nota: 9 | Comentario: Excelente qualidade e suporte | Data: 2026-08-04
+ID_Pesquisa: 327 | Cliente: Empresa A | Nota: 8 | Comentario: Recompraria sem duvida | Data: 2026-08-16
+ID_Pesquisa: 328 | Cliente: Empresa H | Nota: 6 | Comentario: Excelente qualidade e suporte | Data: 2026-01-09
+ID_Pesquisa: 329 | Cliente: Empresa H | Nota: 4 | Comentario: Faltou informacao no rastreio | Data: 2026-02-13
+ID_Pesquisa: 330 | Cliente: Empresa H | Nota: 4 | Comentario: Suporte tecnico muito atencioso | Data: 2026-01-05
+ID_Pesquisa: 331 | Cliente: Empresa C | Nota: 10 | Comentario: Suporte tecnico muito atencioso | Data: 2026-05-03
+ID_Pesquisa: 332 | Cliente: Empresa D | Nota: 4 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-07-20
+ID_Pesquisa: 333 | Cliente: Empresa D | Nota: 10 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-07-15
+ID_Pesquisa: 334 | Cliente: Empresa H | Nota: 6 | Comentario: Faltou informacao no rastreio | Data: 2026-07-10
+ID_Pesquisa: 335 | Cliente: Empresa A | Nota: 8 | Comentario: Demorou para responder o chamado | Data: 2026-02-25
+ID_Pesquisa: 336 | Cliente: Empresa D | Nota: 9 | Comentario: Preco um pouco alto | Data: 2026-05-22
+ID_Pesquisa: 337 | Cliente: Empresa B | Nota: 5 | Comentario: Preco um pouco alto | Data: 2026-03-18
+ID_Pesquisa: 338 | Cliente: Empresa B | Nota: 5 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-07-15
+ID_Pesquisa: 339 | Cliente: Empresa H | Nota: 6 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-04-10
+ID_Pesquisa: 340 | Cliente: Empresa E | Nota: 9 | Comentario: Faltou informacao no rastreio | Data: 2026-08-03
+ID_Pesquisa: 341 | Cliente: Empresa D | Nota: 6 | Comentario: Produto exatamente como descrito | Data: 2026-04-14
+ID_Pesquisa: 342 | Cliente: Empresa B | Nota: 8 | Comentario: Preco um pouco alto | Data: 2026-03-09
+ID_Pesquisa: 343 | Cliente: Empresa C | Nota: 4 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-03-26
+ID_Pesquisa: 344 | Cliente: Empresa E | Nota: 8 | Comentario: Demorou para responder o chamado | Data: 2026-05-15
+ID_Pesquisa: 345 | Cliente: Empresa B | Nota: 7 | Comentario: Demorou para responder o chamado | Data: 2026-05-23
+ID_Pesquisa: 346 | Cliente: Empresa G | Nota: 6 | Comentario: Embalagem danificada mas produto intacto | Data: 2026-08-15
+ID_Pesquisa: 347 | Cliente: Empresa B | Nota: 8 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-07-24
+ID_Pesquisa: 348 | Cliente: Empresa F | Nota: 8 | Comentario: Recompraria sem duvida | Data: 2026-01-03
+ID_Pesquisa: 349 | Cliente: Empresa D | Nota: 9 | Comentario: Faltou informacao no rastreio | Data: 2026-01-25
+ID_Pesquisa: 350 | Cliente: Empresa E | Nota: 8 | Comentario: Otimo atendimento e entrega rapida | Data: 2026-03-16
+
+=====================================================
+FIM DO ARQUIVO DE TESTE
+=====================================================
